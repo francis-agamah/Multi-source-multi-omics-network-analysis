@@ -7,10 +7,10 @@ Multi-source-multi-omics-network-analysis
 #Step 1: Data cleaning and processing.----- Scripts are available in 
 
 
-#Step 2: Step 2 constructing correlation networks----- Scripts are available in 
+#Step 2: constructing disease-state omics-specific graphs ----- Scripts are available in 
 
 
-#Step 3: Step 3 involves random walk analysis.------- Scripts are available in 
+#Step 3: random walk analysis.------- Scripts are available in 
 
 
 
