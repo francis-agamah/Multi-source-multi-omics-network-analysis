@@ -1,0 +1,230 @@
+Gene 1	Gene 2	Weight	Network group	Network
+ICAM1	IL6	0.011761313	Co-expression	Wang-Maris-2006
+CXCL8	IL6	0.016122287	Co-expression	Wang-Maris-2006
+OSM	IL6	0.013165217	Co-expression	Wang-Maris-2006
+CXCL3	IL6	0.014441406	Co-expression	Wang-Maris-2006
+CXCL3	PTX3	0.01586236	Co-expression	Wang-Maris-2006
+CXCL3	CXCL8	0.01861439	Co-expression	Wang-Maris-2006
+ZBTB16	IL6R	0.013464989	Co-expression	Mallon-McKay-2013
+CXCL8	PTX3	0.012891481	Co-expression	Mallon-McKay-2013
+CXCL8	ICAM1	0.011493444	Co-expression	Mallon-McKay-2013
+ECI1	DECR1	0.007870499	Co-expression	Roth-Zlotnik-2006
+CSF3	PD-L1	0.019052865	Co-expression	Roth-Zlotnik-2006
+CSF3	IL6	0.026965266	Co-expression	Roth-Zlotnik-2006
+ICAM1	PD-L1	0.017233063	Co-expression	Roth-Zlotnik-2006
+ICAM1	IL6	0.016881887	Co-expression	Roth-Zlotnik-2006
+ICAM1	CSF3	0.017993083	Co-expression	Roth-Zlotnik-2006
+CXCL8	IL6	0.020021824	Co-expression	Roth-Zlotnik-2006
+CXCL3	IL6	0.021179024	Co-expression	Roth-Zlotnik-2006
+CXCL3	ICAM1	0.012467982	Co-expression	Roth-Zlotnik-2006
+PTX3	IL6	0.018672485	Co-expression	Ramaswamy-Golub-2001
+ICAM1	IL6	0.017715003	Co-expression	Ramaswamy-Golub-2001
+ICAM1	PTX3	0.01580576	Co-expression	Ramaswamy-Golub-2001
+CXCL8	IL6	0.009270781	Co-expression	Ramaswamy-Golub-2001
+CXCL8	PTX3	0.009566335	Co-expression	Ramaswamy-Golub-2001
+CXCL8	ICAM1	0.008909074	Co-expression	Ramaswamy-Golub-2001
+OSM	IL6R	0.012400527	Co-expression	Ramaswamy-Golub-2001
+CXCL3	CXCL8	0.011968089	Co-expression	Ramaswamy-Golub-2001
+IL6ST	IL6R	0.011945457	Co-expression	Innocenti-Brown-2011
+ZBTB16	IL6R	0.007188769	Co-expression	Innocenti-Brown-2011
+PTX3	IL6	0.00804187	Co-expression	Innocenti-Brown-2011
+CSF3	PD-L1	0.016723229	Co-expression	Innocenti-Brown-2011
+CSF3	IL6	0.012135672	Co-expression	Innocenti-Brown-2011
+CSF3	PTX3	0.015123455	Co-expression	Innocenti-Brown-2011
+CXCL8	IL6	0.009282609	Co-expression	Innocenti-Brown-2011
+CXCL8	PTX3	0.010072027	Co-expression	Innocenti-Brown-2011
+CXCL8	CSF3	0.014883346	Co-expression	Innocenti-Brown-2011
+OSM	IL6	0.006372864	Co-expression	Innocenti-Brown-2011
+OSM	CXCL8	0.009589392	Co-expression	Innocenti-Brown-2011
+CXCL3	PD-L1	0.015545101	Co-expression	Innocenti-Brown-2011
+CXCL3	IL6	0.009456841	Co-expression	Innocenti-Brown-2011
+CXCL3	CSF3	0.019097168	Co-expression	Innocenti-Brown-2011
+CXCL3	ICAM1	0.007094533	Co-expression	Innocenti-Brown-2011
+CXCL3	CXCL8	0.018462114	Co-expression	Innocenti-Brown-2011
+CXCL3	OSM	0.010829436	Co-expression	Innocenti-Brown-2011
+ICAM1	IL6	0.011693055	Co-expression	Alizadeh-Staudt-2000
+PTPN6	CMTM6	0.013244806	Co-expression	Dobbin-Giordano-2005
+OSM	CSF3	0.007915954	Co-expression	Dobbin-Giordano-2005
+CXCL3	CKAP4	0.027177691	Co-expression	Dobbin-Giordano-2005
+CXCL3	IL6	0.024467211	Co-expression	Dobbin-Giordano-2005
+CXCL3	CSF3	0.026216816	Co-expression	Dobbin-Giordano-2005
+CXCL3	CXCL8	0.017715853	Co-expression	Dobbin-Giordano-2005
+CSF3	PDCD1	0.0032255019	Co-expression	Bild-Nevins-2006 B
+CXCL8	LILRB4	0.008242886	Co-expression	Bild-Nevins-2006 B
+OSM	CSF3	0.0047116	Co-expression	Bild-Nevins-2006 B
+ICAM1	LILRB4	0.026116641	Co-expression	Burington-Shaughnessy-2008
+CSF3	IL6	0.01356934	Co-expression	Boldrick-Relman-2002
+PTX3	IL6	0.0111967325	Co-expression	Arijs-Rutgeerts-2009
+CSF3	IL6	0.01318694	Co-expression	Arijs-Rutgeerts-2009
+CSF3	PTX3	0.008084557	Co-expression	Arijs-Rutgeerts-2009
+ICAM1	PD-L1	0.014744257	Co-expression	Arijs-Rutgeerts-2009
+ICAM1	IL6	0.015670197	Co-expression	Arijs-Rutgeerts-2009
+ICAM1	CSF3	0.011036872	Co-expression	Arijs-Rutgeerts-2009
+CXCL8	PD-L1	0.0067042043	Co-expression	Arijs-Rutgeerts-2009
+CXCL8	IL6	0.008436746	Co-expression	Arijs-Rutgeerts-2009
+CXCL8	CD80	0.010569827	Co-expression	Arijs-Rutgeerts-2009
+CXCL8	PTX3	0.0059367903	Co-expression	Arijs-Rutgeerts-2009
+CXCL8	ICAM1	0.007881475	Co-expression	Arijs-Rutgeerts-2009
+OSM	CXCL8	0.007961987	Co-expression	Arijs-Rutgeerts-2009
+CXCL3	PD-L1	0.005941174	Co-expression	Arijs-Rutgeerts-2009
+PTX3	IL6	0.0028733807	Co-expression	Jiang-de Kok-2017
+CXCL3	ICAM1	0.0045952494	Co-expression	Jiang-de Kok-2017
+CXCL8	IL6	0.009518101	Co-expression	Perou-Botstein-2000
+CXCL8	ICAM1	0.008176657	Co-expression	Perou-Botstein-2000
+ICAM1	IL6	0.022263188	Co-expression	Chen-Brown-2002
+CXCL8	IL6	0.026352158	Co-expression	Chen-Brown-2002
+PTX3	SLC12A7	0.010304511	Co-expression	Wang-Cheung-2015
+CXCL8	IL6	0.016527755	Co-expression	Wang-Cheung-2015
+CXCL8	ICAM1	0.02104956	Co-expression	Wang-Cheung-2015
+CXCL3	IL6	0.015751917	Co-expression	Wang-Cheung-2015
+CXCL3	ICAM1	0.023103999	Co-expression	Wang-Cheung-2015
+CXCL3	CXCL8	0.023975983	Co-expression	Wang-Cheung-2015
+IL6R	LILRB4	0.0069091124	Co-expression	Wu-Garvey-2007
+PTPN6	LILRB4	0.0048827855	Co-expression	Wu-Garvey-2007
+OSM	LILRB4	0.0044701495	Co-expression	Wu-Garvey-2007
+OSM	ICAM1	0.009537644	Co-expression	Wu-Garvey-2007
+ICAM1	IL6	0.007235467	Co-expression	Rosenwald-Staudt-2001
+ICAM1	IL6	0.018741207	Co-expression	Ross-Perou-2001
+CXCL8	IL6	0.009711328	Co-expression	Ross-Perou-2001
+CXCL8	ICAM1	0.010411433	Co-expression	Ross-Perou-2001
+CSF3	IL6	0.028603641	Co-localization	Schadt-Shoemaker-2004
+ICAM1	IL6	0.0179532	Co-localization	Schadt-Shoemaker-2004
+CXCL8	IL6	0.023177035	Co-localization	Schadt-Shoemaker-2004
+CXCL8	DECR1	0.0085017625	Co-localization	Schadt-Shoemaker-2004
+CXCL8	ICAM1	0.021724528	Co-localization	Schadt-Shoemaker-2004
+CXCL3	IL6	0.025805108	Co-localization	Schadt-Shoemaker-2004
+CXCL3	DECR1	0.012515908	Co-localization	Schadt-Shoemaker-2004
+CXCL3	CSF3	0.017830703	Co-localization	Schadt-Shoemaker-2004
+CXCL3	ICAM1	0.023684103	Co-localization	Schadt-Shoemaker-2004
+CXCL3	CXCL8	0.024332333	Co-localization	Schadt-Shoemaker-2004
+ICAM1	PD-L1	0.012105038	Co-localization	Johnson-Shoemaker-2003
+ICAM1	IL6	0.01188227	Co-localization	Johnson-Shoemaker-2003
+CXCL8	CSF3	0.013635685	Co-localization	Johnson-Shoemaker-2003
+CXCL8	ICAM1	0.011248941	Co-localization	Johnson-Shoemaker-2003
+CXCL3	CXCL8	0.020561824	Co-localization	Johnson-Shoemaker-2003
+HRH1	IL6	0.8164966	Co-localization	Chen-Huang-2014
+ZBTB16	IL6	0.3315943	Co-localization	Chen-Huang-2014
+CREB1	IL6	0.4223163	Genetic Interactions	IREF-SMALL-SCALE-STUDIES
+CD80	IL6	0.004648265	Genetic Interactions	Lin-Smith-2010
+CMTM6	LILRB4	0.0038948543	Genetic Interactions	Lin-Smith-2010
+CMTM6	IL6ST	0.0007347774	Genetic Interactions	Lin-Smith-2010
+ZBTB16	CMTM6	0.0007348834	Genetic Interactions	Lin-Smith-2010
+DECR1	PD-L1	0.0036234865	Genetic Interactions	Lin-Smith-2010
+CXCL8	IL6ST	0.0011092152	Genetic Interactions	Lin-Smith-2010
+CXCL8	CD80	0.0018178642	Genetic Interactions	Lin-Smith-2010
+CTNNA3	ZBTB16	0.00036785167	Genetic Interactions	Lin-Smith-2010
+CREB1	CD80	0.0020363363	Genetic Interactions	Lin-Smith-2010
+CREB1	CXCL8	0.001506561	Genetic Interactions	Lin-Smith-2010
+PDCD1	PD-L1	0.6920382	Pathway	Wu-Stein-2010
+IL6R	IL6	0.031877197	Pathway	Wu-Stein-2010
+IL6ST	IL6	0.015946398	Pathway	Wu-Stein-2010
+IL6ST	IL6R	0.017225262	Pathway	Wu-Stein-2010
+PTPN6	PDCD1	0.03321524	Pathway	Wu-Stein-2010
+PTPN6	IL6R	0.011721397	Pathway	Wu-Stein-2010
+PTPN6	IL6ST	0.0058635655	Pathway	Wu-Stein-2010
+CXCL8	IL6ST	0.011416749	Pathway	Wu-Stein-2010
+OSM	IL6ST	0.06494757	Pathway	Wu-Stein-2010
+CREB1	IL6	0.00621593	Pathway	Wu-Stein-2010
+CREB1	ICAM1	0.011123661	Pathway	Wu-Stein-2010
+IL6R	IL6	0.046300925	Pathway	NCI_NATURE
+IL6ST	IL6	0.033286545	Pathway	NCI_NATURE
+IL6ST	IL6R	0.04921894	Pathway	NCI_NATURE
+DECR1	PD-L1	0.34871778	Pathway	REACTOME
+SLC12A7	PD-L1	0.32944256	Pathway	REACTOME
+ECI1	PD-L1	0.32944256	Pathway	REACTOME
+ECI1	SLC12A7	0.58578646	Pathway	REACTOME
+CTNNA3	PD-L1	0.22014968	Pathway	REACTOME
+CTNNA3	DECR1	0.4143545	Pathway	REACTOME
+PDCD1	PD-L1	0.08772718	Physical Interactions	IREF-reactome
+IL6R	IL6	0.09725083	Physical Interactions	IREF-reactome
+IL6ST	IL6	0.09725083	Physical Interactions	IREF-reactome
+IL6ST	IL6R	0.2532583	Physical Interactions	IREF-reactome
+PTPN6	PD-L1	0.028181333	Physical Interactions	IREF-reactome
+PTPN6	PDCD1	0.026619615	Physical Interactions	IREF-reactome
+ECI1	DECR1	0.5770429	Physical Interactions	IREF-reactome
+CXCL3	CXCL8	0.004061141	Physical Interactions	IREF-reactome
+PDCD1	PD-L1	0.08772718	Physical Interactions	Vastrik-Stein-2007
+IL6R	IL6	0.09725083	Physical Interactions	Vastrik-Stein-2007
+IL6ST	IL6	0.09725083	Physical Interactions	Vastrik-Stein-2007
+IL6ST	IL6R	0.2532583	Physical Interactions	Vastrik-Stein-2007
+PTPN6	PD-L1	0.028181333	Physical Interactions	Vastrik-Stein-2007
+PTPN6	PDCD1	0.026619615	Physical Interactions	Vastrik-Stein-2007
+ECI1	DECR1	0.5770429	Physical Interactions	Vastrik-Stein-2007
+CXCL3	CXCL8	0.004061141	Physical Interactions	Vastrik-Stein-2007
+PDCD1	PD-L1	0.50372267	Physical Interactions	IREF-quickgo
+IL6R	IL6	0.34399015	Physical Interactions	IREF-quickgo
+IL6ST	IL6	0.31140774	Physical Interactions	IREF-quickgo
+IL6ST	IL6R	0.12959585	Physical Interactions	IREF-quickgo
+CMTM6	PD-L1	0.26635626	Physical Interactions	IREF-quickgo
+PTPN6	LILRB4	0.30508825	Physical Interactions	IREF-quickgo
+OSM	IL6ST	0.24271137	Physical Interactions	IREF-quickgo
+PDCD1	PD-L1	1	Physical Interactions	IREF-dip
+IL6R	IL6	0.70966643	Physical Interactions	IREF-dip
+IL6ST	IL6	0.19094884	Physical Interactions	IREF-dip
+OSM	IL6	0.32773384	Physical Interactions	IREF-dip
+OSM	IL6ST	0.21522383	Physical Interactions	IREF-dip
+IL6R	IL6	1	Physical Interactions	IREF-uniprotpp
+PDCD1	PD-L1	0.20997532	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+IL6R	IL6	0.19731338	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+IL6ST	IL6R	0.063408926	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+CD80	PD-L1	0.21618892	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+CMTM6	PD-L1	0.59568703	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+PTPN6	IL6ST	0.015413093	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+ZC3H12B	IL6	0.61550385	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+IL6R	IL6	0.51018554	Physical Interactions	IREF-innatedb
+IL6ST	IL6R	0.38696525	Physical Interactions	IREF-innatedb
+OSM	IL6ST	0.653881	Physical Interactions	Huttlin-Harper-2017
+PTPN6	PDCD1	0.15943001	Physical Interactions	IREF-mint
+OSM	IL6ST	0.31738722	Physical Interactions	IREF-mint
+PDCD1	PD-L1	0.70710677	Physical Interactions	IREF-bind-translation
+IL6R	IL6	0.6339746	Physical Interactions	IREF-bind-translation
+IL6ST	IL6	0.27678296	Physical Interactions	IREF-bind-translation
+IL6ST	IL6R	0.27678296	Physical Interactions	IREF-bind-translation
+PDCD1	PD-L1	0.70710677	Physical Interactions	IREF-bind
+IL6R	IL6	0.6125741	Physical Interactions	IREF-bind
+IL6ST	IL6	0.29119763	Physical Interactions	IREF-bind
+IL6ST	IL6R	0.29119763	Physical Interactions	IREF-bind
+OSM	IL6ST	0.54743886	Physical Interactions	Huttlin-Gygi-2015
+PDCD1	PD-L1	0.6826511	Physical Interactions	IREF-matrixdb
+IL6R	IL6	0.20426263	Physical Interactions	IREF-matrixdb
+IL6ST	IL6R	0.12401065	Physical Interactions	IREF-matrixdb
+HRH1	IL6	0.6767221	Physical Interactions	IREF-matrixdb
+ZBTB16	IL6	0.13808778	Physical Interactions	IREF-matrixdb
+PTPN6	LILRB4	0.19577968	Physical Interactions	IREF-matrixdb
+PTPN6	PDCD1	0.03878481	Physical Interactions	IREF-matrixdb
+OSM	IL6ST	0.10527181	Physical Interactions	IREF-matrixdb
+ZBTB16	IL6	0.12781592	Physical Interactions	IREF-spike
+OSM	IL6ST	0.3272107	Physical Interactions	IREF-spike
+CREB1	IL6	0.04796451	Physical Interactions	IREF-spike
+PDCD1	PD-L1	0.02191751	Physical Interactions	IREF-biogrid
+HRH1	IL6	0.92842543	Physical Interactions	IREF-biogrid
+CD80	PD-L1	0.14449213	Physical Interactions	IREF-biogrid
+CMTM6	PD-L1	0.052272886	Physical Interactions	IREF-biogrid
+ZBTB16	IL6	0.05761914	Predicted	Wu-Stein-2010
+PTPN6	LILRB4	0.14009792	Predicted	Wu-Stein-2010
+PTX3	IL6	0.44417873	Predicted	Wu-Stein-2010
+CSF3	IL6ST	0.4189303	Predicted	Wu-Stein-2010
+CXCL8	IL6	0.09190464	Predicted	Wu-Stein-2010
+CXCL8	ICAM1	0.11296586	Predicted	Wu-Stein-2010
+CXCL3	CXCL8	0.12755169	Predicted	Wu-Stein-2010
+PDCD1	PD-L1	0.70710677	Predicted	I2D-IntAct-Mouse2Human
+IL6ST	IL6	0.5017067	Predicted	I2D-IntAct-Mouse2Human
+IL6ST	IL6R	0.5017067	Predicted	I2D-IntAct-Mouse2Human
+CD80	PD-L1	0.70710677	Predicted	I2D-IntAct-Mouse2Human
+PDCD1	PD-L1	0.40019688	Predicted	I2D-INNATEDB-Mouse2Human
+IL6ST	IL6	0.07045256	Predicted	I2D-INNATEDB-Mouse2Human
+IL6ST	IL6R	0.43175167	Predicted	I2D-INNATEDB-Mouse2Human
+PDCD1	PD-L1	0.015469739	Shared protein domains	INTERPRO
+IL6R	LILRB4	0.010985305	Shared protein domains	INTERPRO
+IL6ST	IL6R	0.022348696	Shared protein domains	INTERPRO
+CD80	PD-L1	0.01727711	Shared protein domains	INTERPRO
+CD80	PDCD1	0.015476097	Shared protein domains	INTERPRO
+CSF3	IL6	0.10527751	Shared protein domains	INTERPRO
+OSM	IL6	0.018031834	Shared protein domains	INTERPRO
+OSM	CSF3	0.018031834	Shared protein domains	INTERPRO
+CXCL3	CXCL8	0.04094544	Shared protein domains	INTERPRO
+PDCD1	PD-L1	0.0140088005	Shared protein domains	PFAM
+IL6ST	IL6R	0.024903955	Shared protein domains	PFAM
+CD80	PD-L1	0.011561034	Shared protein domains	PFAM
+CD80	PDCD1	0.014006908	Shared protein domains	PFAM
+CXCL3	CXCL8	0.022727273	Shared protein domains	PFAM

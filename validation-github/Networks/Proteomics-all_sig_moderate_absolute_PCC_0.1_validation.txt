@@ -1,0 +1,925 @@
+Gene 1	Gene 2	Weight	Network group	Network
+IL6	CCL8	0.010380264	Co-expression	Innocenti-Brown-2011
+CXCL10	CXCL11	0.03580355	Co-expression	Innocenti-Brown-2011
+CXCL10	CCL8	0.01689199	Co-expression	Innocenti-Brown-2011
+CCL7	CXCL11	0.02827167	Co-expression	Innocenti-Brown-2011
+CCL7	CCL8	0.020783698	Co-expression	Innocenti-Brown-2011
+CCL7	IL6	0.010322913	Co-expression	Innocenti-Brown-2011
+CCL2	CCL8	0.012260601	Co-expression	Innocenti-Brown-2011
+CCL2	IL6	0.007803012	Co-expression	Innocenti-Brown-2011
+CCL2	CCL7	0.012681354	Co-expression	Innocenti-Brown-2011
+CXCL9	CXCL11	0.0343118	Co-expression	Innocenti-Brown-2011
+CXCL9	CXCL10	0.029510759	Co-expression	Innocenti-Brown-2011
+CXCL8	IL6	0.009282609	Co-expression	Innocenti-Brown-2011
+CXCL8	CCL2	0.010772362	Co-expression	Innocenti-Brown-2011
+CCL13	CCL8	0.016771406	Co-expression	Innocenti-Brown-2011
+CCL13	IL6	0.008611278	Co-expression	Innocenti-Brown-2011
+IL1B	CCL8	0.013643448	Co-expression	Innocenti-Brown-2011
+IL1B	IL6	0.0075893993	Co-expression	Innocenti-Brown-2011
+IL1B	CCL2	0.0100117335	Co-expression	Innocenti-Brown-2011
+IL1B	CXCL8	0.009326918	Co-expression	Innocenti-Brown-2011
+CCL5	CXCL11	0.007661878	Co-expression	Innocenti-Brown-2011
+CCL5	CXCL10	0.0070544174	Co-expression	Innocenti-Brown-2011
+CCL5	CXCL9	0.009551796	Co-expression	Innocenti-Brown-2011
+XCL2	CCL8	0.016589466	Co-expression	Innocenti-Brown-2011
+XCL2	CXCL10	0.020378003	Co-expression	Innocenti-Brown-2011
+XCL2	CCL5	0.008561252	Co-expression	Innocenti-Brown-2011
+CCL11	CCL8	0.016222613	Co-expression	Innocenti-Brown-2011
+CCL11	IL6	0.011947596	Co-expression	Innocenti-Brown-2011
+CCL11	CCL7	0.01852593	Co-expression	Innocenti-Brown-2011
+CCL11	CCL2	0.01237243	Co-expression	Innocenti-Brown-2011
+CCL11	CCL13	0.024206322	Co-expression	Innocenti-Brown-2011
+CCL11	IL1B	0.011052409	Co-expression	Innocenti-Brown-2011
+CCR5	CXCL11	0.008471986	Co-expression	Innocenti-Brown-2011
+CCR5	CXCL9	0.010959857	Co-expression	Innocenti-Brown-2011
+CCR5	IL1B	0.0049704113	Co-expression	Innocenti-Brown-2011
+CCR5	CCL5	0.0040818895	Co-expression	Innocenti-Brown-2011
+CCR5	XCL2	0.008694396	Co-expression	Innocenti-Brown-2011
+CXCL6	CCL2	0.010949121	Co-expression	Innocenti-Brown-2011
+CCL3	CCL8	0.016985727	Co-expression	Innocenti-Brown-2011
+CCL3	IL6	0.008687453	Co-expression	Innocenti-Brown-2011
+CCL3	CCL2	0.01231407	Co-expression	Innocenti-Brown-2011
+CCL3	IL1B	0.013766318	Co-expression	Innocenti-Brown-2011
+CCL3	XCL2	0.016647376	Co-expression	Innocenti-Brown-2011
+CCL3	CCR5	0.0074064154	Co-expression	Innocenti-Brown-2011
+CCL8	CXCL11	0.013703872	Co-expression	Dobbin-Giordano-2005
+CXCL10	CXCL11	0.018441916	Co-expression	Dobbin-Giordano-2005
+CXCL10	CCL8	0.012931162	Co-expression	Dobbin-Giordano-2005
+CCL16	IL1RN	0.012660824	Co-expression	Dobbin-Giordano-2005
+CCL7	CCL8	0.018974967	Co-expression	Dobbin-Giordano-2005
+CCL7	CXCL10	0.016714381	Co-expression	Dobbin-Giordano-2005
+CCL2	CCL8	0.017337969	Co-expression	Dobbin-Giordano-2005
+CCL2	IL6	0.023832938	Co-expression	Dobbin-Giordano-2005
+CXCL9	CXCL11	0.007928181	Co-expression	Dobbin-Giordano-2005
+CXCL9	CXCL10	0.0068877367	Co-expression	Dobbin-Giordano-2005
+CCL13	CCL8	0.016625335	Co-expression	Dobbin-Giordano-2005
+IL1B	IL6	0.010647923	Co-expression	Dobbin-Giordano-2005
+IL1B	CXCL8	0.010991958	Co-expression	Dobbin-Giordano-2005
+CCL18	CCL8	0.015962107	Co-expression	Dobbin-Giordano-2005
+CCL18	CCL7	0.016269831	Co-expression	Dobbin-Giordano-2005
+CCL18	CCL2	0.016077135	Co-expression	Dobbin-Giordano-2005
+CCL18	CCL13	0.01746921	Co-expression	Dobbin-Giordano-2005
+CCR5	CCL8	0.008697439	Co-expression	Dobbin-Giordano-2005
+CCR5	CCL5	0.007167789	Co-expression	Dobbin-Giordano-2005
+CXCL6	IL1B	0.012098219	Co-expression	Dobbin-Giordano-2005
+IL36RN	IL1B	0.010994042	Co-expression	Dobbin-Giordano-2005
+IL36G	CXCL8	0.013570921	Co-expression	Dobbin-Giordano-2005
+IL36G	IL1B	0.010966875	Co-expression	Dobbin-Giordano-2005
+IL36G	CXCL6	0.014394959	Co-expression	Dobbin-Giordano-2005
+IL36G	IL36RN	0.014314335	Co-expression	Dobbin-Giordano-2005
+CXCL11	CD274	0.013033583	Co-expression	Arijs-Rutgeerts-2009
+IL6	CCL8	0.016099725	Co-expression	Arijs-Rutgeerts-2009
+CXCL10	CD274	0.012477687	Co-expression	Arijs-Rutgeerts-2009
+CXCL10	CXCL11	0.015488762	Co-expression	Arijs-Rutgeerts-2009
+CXCL10	CCL8	0.01409022	Co-expression	Arijs-Rutgeerts-2009
+CCL7	CCL8	0.018886078	Co-expression	Arijs-Rutgeerts-2009
+CCL7	IL6	0.016290596	Co-expression	Arijs-Rutgeerts-2009
+CCL2	CCL8	0.010766988	Co-expression	Arijs-Rutgeerts-2009
+CCL2	IL6	0.011314114	Co-expression	Arijs-Rutgeerts-2009
+CXCL9	CXCL10	0.01844109	Co-expression	Arijs-Rutgeerts-2009
+CXCL8	CD274	0.0067042043	Co-expression	Arijs-Rutgeerts-2009
+CXCL8	IL1RN	0.011079895	Co-expression	Arijs-Rutgeerts-2009
+CXCL8	IL6	0.008436746	Co-expression	Arijs-Rutgeerts-2009
+IL1B	CD274	0.0069496254	Co-expression	Arijs-Rutgeerts-2009
+IL1B	IL1RN	0.012029297	Co-expression	Arijs-Rutgeerts-2009
+IL1B	IL6	0.008711663	Co-expression	Arijs-Rutgeerts-2009
+IL1B	CXCL8	0.0052234386	Co-expression	Arijs-Rutgeerts-2009
+IL18BP	CD274	0.0135149555	Co-expression	Arijs-Rutgeerts-2009
+IL18BP	CXCL11	0.01630119	Co-expression	Arijs-Rutgeerts-2009
+IL18BP	CXCL10	0.014934874	Co-expression	Arijs-Rutgeerts-2009
+CCL18	CXCL9	0.014742464	Co-expression	Arijs-Rutgeerts-2009
+CCL11	CCL2	0.007937465	Co-expression	Arijs-Rutgeerts-2009
+CCR5	CCL8	0.014987436	Co-expression	Arijs-Rutgeerts-2009
+CCR5	CXCL10	0.012765292	Co-expression	Arijs-Rutgeerts-2009
+CCR5	CXCL9	0.015836235	Co-expression	Arijs-Rutgeerts-2009
+CXCL6	CCL8	0.005870701	Co-expression	Arijs-Rutgeerts-2009
+CXCL6	CCL7	0.006082398	Co-expression	Arijs-Rutgeerts-2009
+CXCL10	CXCL11	0.023970855	Co-expression	Wang-Cheung-2015
+IL18	IL1RN	0.0135387555	Co-expression	Wang-Cheung-2015
+IL18	CCL8	0.012381527	Co-expression	Wang-Cheung-2015
+CCL2	CCL8	0.014946284	Co-expression	Wang-Cheung-2015
+CCL2	IL6	0.013259606	Co-expression	Wang-Cheung-2015
+CCL2	CCL7	0.010054627	Co-expression	Wang-Cheung-2015
+CCL2	IL18	0.009051562	Co-expression	Wang-Cheung-2015
+CXCL8	IL6	0.016527755	Co-expression	Wang-Cheung-2015
+CXCL8	CCL7	0.013216356	Co-expression	Wang-Cheung-2015
+CXCL8	CCL2	0.011958651	Co-expression	Wang-Cheung-2015
+IL1B	CCL2	0.016543472	Co-expression	Wang-Cheung-2015
+CCL5	CXCL11	0.028061414	Co-expression	Wang-Cheung-2015
+IL18BP	CXCL9	0.018803356	Co-expression	Wang-Cheung-2015
+CCL11	IL6	0.012862166	Co-expression	Wang-Cheung-2015
+CCL11	CCL7	0.010188071	Co-expression	Wang-Cheung-2015
+CCL11	CCL2	0.008593727	Co-expression	Wang-Cheung-2015
+CCR5	CXCL9	0.01990788	Co-expression	Wang-Cheung-2015
+CXCL6	CCL8	0.013429313	Co-expression	Wang-Cheung-2015
+CXCL6	IL6	0.01121991	Co-expression	Wang-Cheung-2015
+CXCL6	CCL7	0.009322171	Co-expression	Wang-Cheung-2015
+CXCL6	CCL2	0.010559781	Co-expression	Wang-Cheung-2015
+CXCL6	CCL11	0.009955497	Co-expression	Wang-Cheung-2015
+IL36G	CCL7	0.015390676	Co-expression	Wang-Cheung-2015
+IL36G	CXCL8	0.013044228	Co-expression	Wang-Cheung-2015
+CCL7	IL1RN	0.024573294	Co-expression	Alizadeh-Staudt-2000
+CCL2	IL1RN	0.015828168	Co-expression	Alizadeh-Staudt-2000
+CCL2	CCL7	0.019793035	Co-expression	Alizadeh-Staudt-2000
+CXCL8	IL1RN	0.01626018	Co-expression	Alizadeh-Staudt-2000
+CCL13	CXCL8	0.013010668	Co-expression	Alizadeh-Staudt-2000
+IL1B	IL1RN	0.020884024	Co-expression	Alizadeh-Staudt-2000
+IL1B	CCL7	0.018893955	Co-expression	Alizadeh-Staudt-2000
+CCL5	CCL2	0.0067944364	Co-expression	Alizadeh-Staudt-2000
+CCL5	CXCL9	0.0057415245	Co-expression	Alizadeh-Staudt-2000
+CCL18	CCL2	0.0068362164	Co-expression	Alizadeh-Staudt-2000
+CCL18	CXCL9	0.0068340325	Co-expression	Alizadeh-Staudt-2000
+CCL18	CCL5	0.004928237	Co-expression	Alizadeh-Staudt-2000
+CCL11	CCL2	0.012182925	Co-expression	Alizadeh-Staudt-2000
+CCL11	CXCL9	0.008627279	Co-expression	Alizadeh-Staudt-2000
+CCL11	CCL5	0.0060383454	Co-expression	Alizadeh-Staudt-2000
+CCL11	CCL18	0.0068808463	Co-expression	Alizadeh-Staudt-2000
+CCR5	CXCL10	0.014088968	Co-expression	Alizadeh-Staudt-2000
+CCR5	CCL2	0.011988276	Co-expression	Alizadeh-Staudt-2000
+CCR5	CXCL9	0.008889337	Co-expression	Alizadeh-Staudt-2000
+CCR5	CCL5	0.0073210243	Co-expression	Alizadeh-Staudt-2000
+CCR5	CCL18	0.007019553	Co-expression	Alizadeh-Staudt-2000
+CCR5	CCL11	0.013208977	Co-expression	Alizadeh-Staudt-2000
+CCL16	IL6	0.022644226	Co-expression	Chen-Brown-2002
+CCL7	CD274	0.015338448	Co-expression	Chen-Brown-2002
+CCL2	CD274	0.007165941	Co-expression	Chen-Brown-2002
+CCL2	CCL16	0.007976457	Co-expression	Chen-Brown-2002
+CCL2	CCL7	0.00977549	Co-expression	Chen-Brown-2002
+CXCL9	CXCL10	0.034143176	Co-expression	Chen-Brown-2002
+CXCL8	IL6	0.026352158	Co-expression	Chen-Brown-2002
+CCL13	CCL7	0.015463734	Co-expression	Chen-Brown-2002
+CCL13	CCL2	0.008111216	Co-expression	Chen-Brown-2002
+CCL5	CXCL9	0.017009428	Co-expression	Chen-Brown-2002
+CCL5	CCL13	0.016637992	Co-expression	Chen-Brown-2002
+CCL18	CXCL9	0.020747676	Co-expression	Chen-Brown-2002
+CCL18	CCL5	0.015806055	Co-expression	Chen-Brown-2002
+CCL11	CD274	0.01380189	Co-expression	Chen-Brown-2002
+CCL11	CCL16	0.013477652	Co-expression	Chen-Brown-2002
+CCL11	CCL7	0.017747227	Co-expression	Chen-Brown-2002
+CCL11	CCL2	0.008485111	Co-expression	Chen-Brown-2002
+CCL11	CCL13	0.01454129	Co-expression	Chen-Brown-2002
+CCL3	CCL2	0.004182024	Co-expression	Chen-Brown-2002
+CCL3	CCL13	0.011025187	Co-expression	Chen-Brown-2002
+CCL3	CCL5	0.00874281	Co-expression	Chen-Brown-2002
+CXCL10	CXCL11	0.026966268	Co-expression	Roth-Zlotnik-2006
+CCL2	CCL8	0.02141072	Co-expression	Roth-Zlotnik-2006
+CCL2	IL6	0.030454462	Co-expression	Roth-Zlotnik-2006
+CXCL9	CXCL11	0.03348619	Co-expression	Roth-Zlotnik-2006
+CXCL9	CXCL10	0.039873913	Co-expression	Roth-Zlotnik-2006
+CXCL8	IL6	0.020021824	Co-expression	Roth-Zlotnik-2006
+IL1B	IL6	0.0259487	Co-expression	Roth-Zlotnik-2006
+IL1B	CCL2	0.0213736	Co-expression	Roth-Zlotnik-2006
+CCL5	CXCL11	0.014096634	Co-expression	Roth-Zlotnik-2006
+CCL18	CD274	0.019552933	Co-expression	Roth-Zlotnik-2006
+CCR5	CXCL11	0.024510698	Co-expression	Roth-Zlotnik-2006
+CCR5	CCL5	0.014648189	Co-expression	Roth-Zlotnik-2006
+CXCL6	CCL5	0.014169185	Co-expression	Roth-Zlotnik-2006
+CCL8	CXCL11	0.010969618	Co-expression	Bild-Nevins-2006 B
+CXCL10	CXCL11	0.010185367	Co-expression	Bild-Nevins-2006 B
+CCL2	CCL8	0.017051388	Co-expression	Bild-Nevins-2006 B
+CCL2	IL6	0.026407778	Co-expression	Bild-Nevins-2006 B
+CXCL9	CXCL11	0.009534744	Co-expression	Bild-Nevins-2006 B
+CXCL9	CCL8	0.008598247	Co-expression	Bild-Nevins-2006 B
+CXCL9	IL18	0.01271489	Co-expression	Bild-Nevins-2006 B
+CXCL8	CXCL11	0.009997093	Co-expression	Bild-Nevins-2006 B
+CXCL8	CXCL10	0.015485266	Co-expression	Bild-Nevins-2006 B
+IL1B	CCL2	0.02199387	Co-expression	Bild-Nevins-2006 B
+IL1B	CXCL8	0.022417204	Co-expression	Bild-Nevins-2006 B
+CCL5	CXCL11	0.00560146	Co-expression	Bild-Nevins-2006 B
+CCL5	CCL8	0.0071109366	Co-expression	Bild-Nevins-2006 B
+CCL5	LGALS9	0.0061825877	Co-expression	Bild-Nevins-2006 B
+CCL5	CXCL9	0.008194641	Co-expression	Bild-Nevins-2006 B
+CCL5	CCL13	0.00775963	Co-expression	Bild-Nevins-2006 B
+CCL18	CCL13	0.024645107	Co-expression	Bild-Nevins-2006 B
+CCL18	CCL5	0.007875236	Co-expression	Bild-Nevins-2006 B
+CCL11	CCL13	0.027035547	Co-expression	Bild-Nevins-2006 B
+CCL11	CCL5	0.008082764	Co-expression	Bild-Nevins-2006 B
+CCL11	CCL18	0.023466768	Co-expression	Bild-Nevins-2006 B
+CCR5	CXCL11	0.012476561	Co-expression	Bild-Nevins-2006 B
+CCR5	CCL8	0.014633096	Co-expression	Bild-Nevins-2006 B
+CCR5	CXCL9	0.014228298	Co-expression	Bild-Nevins-2006 B
+CCR5	CCL5	0.012556797	Co-expression	Bild-Nevins-2006 B
+CCL3	IL1B	0.028770642	Co-expression	Bild-Nevins-2006 B
+CCL3	CCL5	0.00835543	Co-expression	Bild-Nevins-2006 B
+LGALS9	IL1RN	0.021968016	Co-expression	Burington-Shaughnessy-2008
+CCL7	CCL16	0.0039206017	Co-expression	Burington-Shaughnessy-2008
+IL18	CCL8	0.014271251	Co-expression	Burington-Shaughnessy-2008
+CCL2	CCL8	0.021231236	Co-expression	Burington-Shaughnessy-2008
+CXCL9	CXCL10	0.021901172	Co-expression	Burington-Shaughnessy-2008
+CCL18	CCL8	0.013722346	Co-expression	Burington-Shaughnessy-2008
+CCL18	IL18	0.012469372	Co-expression	Burington-Shaughnessy-2008
+CCL18	CCL2	0.015443155	Co-expression	Burington-Shaughnessy-2008
+XCL2	CCL16	0.014823222	Co-expression	Burington-Shaughnessy-2008
+CCL3	CXCL10	0.021610042	Co-expression	Burington-Shaughnessy-2008
+IL6	IL1RN	0.016551964	Co-expression	Wang-Maris-2006
+CXCL10	CXCL11	0.026501197	Co-expression	Wang-Maris-2006
+IL18	CXCL10	0.016654266	Co-expression	Wang-Maris-2006
+CXCL9	CXCL11	0.026518384	Co-expression	Wang-Maris-2006
+CXCL9	CXCL10	0.027576016	Co-expression	Wang-Maris-2006
+CXCL9	IL18	0.016086629	Co-expression	Wang-Maris-2006
+CXCL8	IL6	0.016122287	Co-expression	Wang-Maris-2006
+IL1B	IL6	0.01589569	Co-expression	Wang-Maris-2006
+IL1B	CXCL8	0.020508705	Co-expression	Wang-Maris-2006
+CCL5	CXCL10	0.018103655	Co-expression	Wang-Maris-2006
+CCL5	CXCL9	0.027344452	Co-expression	Wang-Maris-2006
+CCL18	CCL8	0.0182068	Co-expression	Wang-Maris-2006
+CCL18	IL6	0.013324889	Co-expression	Wang-Maris-2006
+CCL18	CXCL8	0.015082475	Co-expression	Wang-Maris-2006
+CCL18	IL1B	0.015699094	Co-expression	Wang-Maris-2006
+CXCL6	IL6	0.014238999	Co-expression	Wang-Maris-2006
+CXCL6	CXCL8	0.018815288	Co-expression	Wang-Maris-2006
+CXCL6	IL1B	0.017280962	Co-expression	Wang-Maris-2006
+CXCL6	CCL18	0.012967029	Co-expression	Wang-Maris-2006
+IL6	IL1RN	0.0108550545	Co-expression	Ramaswamy-Golub-2001
+CXCL10	CXCL11	0.024687512	Co-expression	Ramaswamy-Golub-2001
+CXCL10	IL6	0.01788032	Co-expression	Ramaswamy-Golub-2001
+CXCL9	CXCL11	0.021271717	Co-expression	Ramaswamy-Golub-2001
+CXCL9	CXCL10	0.016749116	Co-expression	Ramaswamy-Golub-2001
+CXCL8	IL1RN	0.0086921975	Co-expression	Ramaswamy-Golub-2001
+CXCL8	IL6	0.009270781	Co-expression	Ramaswamy-Golub-2001
+IL1B	IL1RN	0.010445497	Co-expression	Ramaswamy-Golub-2001
+IL1B	IL6	0.020199798	Co-expression	Ramaswamy-Golub-2001
+IL1B	CXCL10	0.014955208	Co-expression	Ramaswamy-Golub-2001
+IL1B	CXCL8	0.009428914	Co-expression	Ramaswamy-Golub-2001
+CCL18	CXCL11	0.022343995	Co-expression	Ramaswamy-Golub-2001
+CCL18	CXCL9	0.016053483	Co-expression	Ramaswamy-Golub-2001
+CCL4L2	CXCL10	0.020894775	Co-expression	Ramaswamy-Golub-2001
+CCL3	IL1RN	0.011284321	Co-expression	Ramaswamy-Golub-2001
+CCL3	IL6	0.019946968	Co-expression	Ramaswamy-Golub-2001
+CCL3	CXCL10	0.015241648	Co-expression	Ramaswamy-Golub-2001
+CCL3	CXCL8	0.009851494	Co-expression	Ramaswamy-Golub-2001
+CCL3	IL1B	0.017946046	Co-expression	Ramaswamy-Golub-2001
+CCL3	CCL4L2	0.01959933	Co-expression	Ramaswamy-Golub-2001
+IL6	IL1RN	0.010576245	Co-expression	Boldrick-Relman-2002
+CCL2	CCL7	0.02477999	Co-expression	Boldrick-Relman-2002
+CCL13	CCL7	0.016090525	Co-expression	Boldrick-Relman-2002
+IL1B	IL1RN	0.009848455	Co-expression	Boldrick-Relman-2002
+IL1B	IL6	0.014142287	Co-expression	Boldrick-Relman-2002
+IL1B	CXCL8	0.011385023	Co-expression	Boldrick-Relman-2002
+CCL18	IL1RN	0.009898695	Co-expression	Boldrick-Relman-2002
+CCL18	IL1B	0.010526853	Co-expression	Boldrick-Relman-2002
+CCL11	CCL7	0.023443762	Co-expression	Boldrick-Relman-2002
+CCL11	CCL2	0.026001899	Co-expression	Boldrick-Relman-2002
+CCL11	CCL13	0.026887644	Co-expression	Boldrick-Relman-2002
+CCL3	IL1RN	0.011556119	Co-expression	Boldrick-Relman-2002
+CCL3	IL6	0.016024731	Co-expression	Boldrick-Relman-2002
+CCL3	CXCL8	0.012016426	Co-expression	Boldrick-Relman-2002
+CCL3	IL1B	0.015376286	Co-expression	Boldrick-Relman-2002
+CCL3	CCL18	0.011463121	Co-expression	Boldrick-Relman-2002
+CCL7	IL1RN	0.0139871035	Co-expression	Rosenwald-Staudt-2001
+CCL2	IL1RN	0.016174147	Co-expression	Rosenwald-Staudt-2001
+CCL5	IL1RN	0.006033212	Co-expression	Rosenwald-Staudt-2001
+CCL5	CXCL10	0.007495684	Co-expression	Rosenwald-Staudt-2001
+CCL5	CXCL9	0.0041166395	Co-expression	Rosenwald-Staudt-2001
+CCL18	CXCL10	0.0067848307	Co-expression	Rosenwald-Staudt-2001
+CCL18	CCL2	0.005786282	Co-expression	Rosenwald-Staudt-2001
+CCL18	CXCL9	0.0041362527	Co-expression	Rosenwald-Staudt-2001
+CCL18	CCL5	0.0036801551	Co-expression	Rosenwald-Staudt-2001
+CCR5	CXCL9	0.0071741417	Co-expression	Rosenwald-Staudt-2001
+CCR5	CCL5	0.0067628045	Co-expression	Rosenwald-Staudt-2001
+CCR5	CCL18	0.0060392926	Co-expression	Rosenwald-Staudt-2001
+CCR5	CCL11	0.019569678	Co-expression	Rosenwald-Staudt-2001
+CCL3	IL1RN	0.011896506	Co-expression	Rosenwald-Staudt-2001
+CCL3	IL6	0.010588387	Co-expression	Rosenwald-Staudt-2001
+CCL3	IL1B	0.0106887985	Co-expression	Rosenwald-Staudt-2001
+IL18	IL6	0.013209364	Co-localization	Johnson-Shoemaker-2003
+CCL2	IL6	0.013358831	Co-localization	Johnson-Shoemaker-2003
+CXCL8	CCL2	0.01209015	Co-localization	Johnson-Shoemaker-2003
+IL1B	IL6	0.0117118275	Co-localization	Johnson-Shoemaker-2003
+IL1B	CCL2	0.01450579	Co-localization	Johnson-Shoemaker-2003
+IL1B	CXCL8	0.013975998	Co-localization	Johnson-Shoemaker-2003
+CCL5	LGALS9	0.008663358	Co-localization	Johnson-Shoemaker-2003
+CCL5	CCL7	0.0058345203	Co-localization	Johnson-Shoemaker-2003
+CCL5	CXCL9	0.004621132	Co-localization	Johnson-Shoemaker-2003
+CCL5	CCL13	0.0066855783	Co-localization	Johnson-Shoemaker-2003
+CCL18	CXCL9	0.00906633	Co-localization	Johnson-Shoemaker-2003
+CCL18	CCL5	0.0042051566	Co-localization	Johnson-Shoemaker-2003
+XCL2	CCL7	0.009035293	Co-localization	Johnson-Shoemaker-2003
+XCL2	CXCL9	0.008827482	Co-localization	Johnson-Shoemaker-2003
+XCL2	CCL5	0.0073480657	Co-localization	Johnson-Shoemaker-2003
+XCL2	CCL18	0.008715995	Co-localization	Johnson-Shoemaker-2003
+CCL11	CCL13	0.0101988185	Co-localization	Johnson-Shoemaker-2003
+CCR5	LGALS9	0.0107072545	Co-localization	Johnson-Shoemaker-2003
+CCR5	CXCL9	0.006019438	Co-localization	Johnson-Shoemaker-2003
+CCR5	CCL5	0.00474836	Co-localization	Johnson-Shoemaker-2003
+CCR5	XCL2	0.006813867	Co-localization	Johnson-Shoemaker-2003
+CXCL6	CCL7	0.010366084	Co-localization	Johnson-Shoemaker-2003
+CXCL6	CCL5	0.00980915	Co-localization	Johnson-Shoemaker-2003
+CXCL6	CCR5	0.009911138	Co-localization	Johnson-Shoemaker-2003
+CCL8	CXCL11	0.057607792	Physical Interactions	IREF-bhf-ucl
+CXCL10	CXCL11	0.04788569	Physical Interactions	IREF-bhf-ucl
+CXCL10	CCL8	0.07035479	Physical Interactions	IREF-bhf-ucl
+CCL2	CCL8	0.07710152	Physical Interactions	IREF-bhf-ucl
+CXCL9	CXCL11	0.050392374	Physical Interactions	IREF-bhf-ucl
+CXCL9	CXCL10	0.061542798	Physical Interactions	IREF-bhf-ucl
+CXCL9	CCL2	0.0674445	Physical Interactions	IREF-bhf-ucl
+CXCL8	CCL8	0.24586117	Physical Interactions	IREF-bhf-ucl
+CXCL8	CCL2	0.22396685	Physical Interactions	IREF-bhf-ucl
+CCL13	CXCL11	0.049335748	Physical Interactions	IREF-bhf-ucl
+CCL13	CCL8	0.07248525	Physical Interactions	IREF-bhf-ucl
+CCL13	CXCL10	0.060252372	Physical Interactions	IREF-bhf-ucl
+CCL13	CXCL9	0.06340642	Physical Interactions	IREF-bhf-ucl
+CCL5	CXCL11	0.028775591	Physical Interactions	IREF-bhf-ucl
+CCL5	CXCL10	0.035142828	Physical Interactions	IREF-bhf-ucl
+CCL5	CCL16	0.3281489	Physical Interactions	IREF-bhf-ucl
+CCL5	CCL2	0.038512878	Physical Interactions	IREF-bhf-ucl
+CCL5	CXCL9	0.036982458	Physical Interactions	IREF-bhf-ucl
+CCL5	CCL13	0.036207013	Physical Interactions	IREF-bhf-ucl
+CCL15	CCL2	0.4826436	Physical Interactions	IREF-bhf-ucl
+XCL2	CCL8	0.072094	Physical Interactions	IREF-bhf-ucl
+XCL2	CCL7	0.27630433	Physical Interactions	IREF-bhf-ucl
+XCL2	CCL5	0.036011577	Physical Interactions	IREF-bhf-ucl
+CCL11	CXCL11	0.032897014	Physical Interactions	IREF-bhf-ucl
+CCL11	CCL8	0.04833307	Physical Interactions	IREF-bhf-ucl
+CCL11	CXCL10	0.040176205	Physical Interactions	IREF-bhf-ucl
+CCL11	CCL2	0.044028934	Physical Interactions	IREF-bhf-ucl
+CCL11	CXCL9	0.04227932	Physical Interactions	IREF-bhf-ucl
+CCL11	CCL13	0.04139281	Physical Interactions	IREF-bhf-ucl
+CCL11	CCL5	0.024142789	Physical Interactions	IREF-bhf-ucl
+CCL11	CCL18	0.3598036	Physical Interactions	IREF-bhf-ucl
+CCR5	CCL5	0.17072193	Physical Interactions	IREF-bhf-ucl
+CCL4L2	CCL2	0.19561607	Physical Interactions	IREF-bhf-ucl
+CXCL6	CCL8	0.08279512	Physical Interactions	IREF-bhf-ucl
+CXCL6	CXCL10	0.0688223	Physical Interactions	IREF-bhf-ucl
+CXCL6	CCL7	0.31731698	Physical Interactions	IREF-bhf-ucl
+CXCL6	CCL5	0.041356876	Physical Interactions	IREF-bhf-ucl
+CXCL6	CCL11	0.04728027	Physical Interactions	IREF-bhf-ucl
+CCL26	CXCL11	0.043545533	Physical Interactions	IREF-bhf-ucl
+CCL26	CCL8	0.06397813	Physical Interactions	IREF-bhf-ucl
+CCL26	CXCL10	0.053180944	Physical Interactions	IREF-bhf-ucl
+CCL26	CCL2	0.058280777	Physical Interactions	IREF-bhf-ucl
+CCL26	CXCL9	0.05596482	Physical Interactions	IREF-bhf-ucl
+CCL26	CCL13	0.054791354	Physical Interactions	IREF-bhf-ucl
+CCL26	CCL5	0.03195763	Physical Interactions	IREF-bhf-ucl
+CCL26	XCL2	0.054495607	Physical Interactions	IREF-bhf-ucl
+CCL26	CCL11	0.036534805	Physical Interactions	IREF-bhf-ucl
+CCL1	CXCL11	0.41341388	Physical Interactions	IREF-bhf-ucl
+CCL8	CXCL11	0.05500831	Physical Interactions	von Hundelshausen-Weber-2017
+CXCL10	CXCL11	0.048034046	Physical Interactions	von Hundelshausen-Weber-2017
+CXCL10	CCL8	0.067215584	Physical Interactions	von Hundelshausen-Weber-2017
+CCL2	CCL8	0.073656745	Physical Interactions	von Hundelshausen-Weber-2017
+CXCL9	CXCL11	0.05048103	Physical Interactions	von Hundelshausen-Weber-2017
+CXCL9	CXCL10	0.06168363	Physical Interactions	von Hundelshausen-Weber-2017
+CXCL9	CCL2	0.06759468	Physical Interactions	von Hundelshausen-Weber-2017
+CXCL8	CCL8	0.2361258	Physical Interactions	von Hundelshausen-Weber-2017
+CXCL8	CCL2	0.22594719	Physical Interactions	von Hundelshausen-Weber-2017
+CCL13	CXCL11	0.04949127	Physical Interactions	von Hundelshausen-Weber-2017
+CCL13	CCL8	0.06925473	Physical Interactions	von Hundelshausen-Weber-2017
+CCL13	CXCL10	0.060474228	Physical Interactions	von Hundelshausen-Weber-2017
+CCL13	CXCL9	0.06355495	Physical Interactions	von Hundelshausen-Weber-2017
+CCL5	CXCL11	0.02812506	Physical Interactions	von Hundelshausen-Weber-2017
+CCL5	CCL8	0.039356302	Physical Interactions	von Hundelshausen-Weber-2017
+CCL5	CXCL10	0.03436649	Physical Interactions	von Hundelshausen-Weber-2017
+CCL5	CCL16	0.32335582	Physical Interactions	von Hundelshausen-Weber-2017
+CCL5	CCL2	0.037659775	Physical Interactions	von Hundelshausen-Weber-2017
+CCL5	CXCL9	0.036117215	Physical Interactions	von Hundelshausen-Weber-2017
+CCL5	CCL13	0.035409078	Physical Interactions	von Hundelshausen-Weber-2017
+CCL15	CCL2	0.48348853	Physical Interactions	von Hundelshausen-Weber-2017
+XCL2	CCL8	0.068871304	Physical Interactions	von Hundelshausen-Weber-2017
+XCL2	CCL7	0.2767814	Physical Interactions	von Hundelshausen-Weber-2017
+XCL2	CCL5	0.03521304	Physical Interactions	von Hundelshausen-Weber-2017
+CCL11	CXCL11	0.032971248	Physical Interactions	von Hundelshausen-Weber-2017
+CCL11	CCL8	0.046137728	Physical Interactions	von Hundelshausen-Weber-2017
+CCL11	CXCL10	0.040288128	Physical Interactions	von Hundelshausen-Weber-2017
+CCL11	CCL2	0.044148877	Physical Interactions	von Hundelshausen-Weber-2017
+CCL11	CXCL9	0.042340517	Physical Interactions	von Hundelshausen-Weber-2017
+CCL11	CCL13	0.041510366	Physical Interactions	von Hundelshausen-Weber-2017
+CCL11	CCL5	0.023589645	Physical Interactions	von Hundelshausen-Weber-2017
+CCL11	CCL18	0.36015326	Physical Interactions	von Hundelshausen-Weber-2017
+CCR5	CCL5	0.16724797	Physical Interactions	von Hundelshausen-Weber-2017
+CCL4L2	CCL2	0.19595851	Physical Interactions	von Hundelshausen-Weber-2017
+CXCL6	CCL8	0.079117194	Physical Interactions	von Hundelshausen-Weber-2017
+CXCL6	CXCL10	0.069086276	Physical Interactions	von Hundelshausen-Weber-2017
+CXCL6	CCL7	0.31795782	Physical Interactions	von Hundelshausen-Weber-2017
+CXCL6	CCL5	0.040451635	Physical Interactions	von Hundelshausen-Weber-2017
+CXCL6	CCL11	0.047421794	Physical Interactions	von Hundelshausen-Weber-2017
+CCL26	CXCL11	0.043670483	Physical Interactions	von Hundelshausen-Weber-2017
+CCL26	CCL8	0.061109517	Physical Interactions	von Hundelshausen-Weber-2017
+CCL26	CXCL10	0.053361706	Physical Interactions	von Hundelshausen-Weber-2017
+CCL26	CCL2	0.05847527	Physical Interactions	von Hundelshausen-Weber-2017
+CCL26	CXCL9	0.056080095	Physical Interactions	von Hundelshausen-Weber-2017
+CCL26	CCL13	0.054980557	Physical Interactions	von Hundelshausen-Weber-2017
+CCL26	CCL5	0.031244531	Physical Interactions	von Hundelshausen-Weber-2017
+CCL26	XCL2	0.054676164	Physical Interactions	von Hundelshausen-Weber-2017
+CCL26	CCL11	0.036628228	Physical Interactions	von Hundelshausen-Weber-2017
+CCL1	CXCL11	0.4139445	Physical Interactions	von Hundelshausen-Weber-2017
+CCL8	CXCL11	0.056638245	Physical Interactions	IREF-intact
+CXCL10	CXCL11	0.04187225	Physical Interactions	IREF-intact
+CXCL10	CCL8	0.07253237	Physical Interactions	IREF-intact
+CCL2	CCL8	0.07974908	Physical Interactions	IREF-intact
+CXCL9	CXCL11	0.015553032	Physical Interactions	IREF-intact
+CXCL9	CXCL10	0.019917605	Physical Interactions	IREF-intact
+CXCL9	CCL2	0.021899335	Physical Interactions	IREF-intact
+CXCL8	CCL8	0.14096987	Physical Interactions	IREF-intact
+CXCL8	CCL2	0.11458734	Physical Interactions	IREF-intact
+CCL13	CXCL11	0.044979617	Physical Interactions	IREF-intact
+CCL13	CCL8	0.07791504	Physical Interactions	IREF-intact
+CCL13	CXCL10	0.057602037	Physical Interactions	IREF-intact
+CCL13	CXCL9	0.021395704	Physical Interactions	IREF-intact
+CCL5	CXCL11	0.02332479	Physical Interactions	IREF-intact
+CCL5	CXCL10	0.029870313	Physical Interactions	IREF-intact
+CCL5	CCL16	0.23101859	Physical Interactions	IREF-intact
+CCL5	CCL2	0.0328423	Physical Interactions	IREF-intact
+CCL5	CXCL9	0.01109503	Physical Interactions	IREF-intact
+CCL5	CCL13	0.03208701	Physical Interactions	IREF-intact
+CCL15	CCL2	0.50106126	Physical Interactions	IREF-intact
+XCL2	CCL8	0.08050683	Physical Interactions	IREF-intact
+XCL2	CCL7	0.14983957	Physical Interactions	IREF-intact
+XCL2	CCL5	0.03315436	Physical Interactions	IREF-intact
+CCL11	CXCL11	0.027626082	Physical Interactions	IREF-intact
+CCL11	CCL8	0.047854725	Physical Interactions	IREF-intact
+CCL11	CXCL10	0.03537866	Physical Interactions	IREF-intact
+CCL11	CCL2	0.038898706	Physical Interactions	IREF-intact
+CCL11	CXCL9	0.013141051	Physical Interactions	IREF-intact
+CCL11	CCL13	0.03800413	Physical Interactions	IREF-intact
+CCL11	CCL5	0.019707555	Physical Interactions	IREF-intact
+CCL11	CCL18	0.07799708	Physical Interactions	IREF-intact
+CCR5	CCL5	0.028685115	Physical Interactions	IREF-intact
+CCL4L2	CCL2	0.04095499	Physical Interactions	IREF-intact
+CXCL6	CCL8	0.10032556	Physical Interactions	IREF-intact
+CXCL6	CXCL10	0.07416997	Physical Interactions	IREF-intact
+CXCL6	CCL7	0.18672626	Physical Interactions	IREF-intact
+CXCL6	CCL5	0.041316118	Physical Interactions	IREF-intact
+CXCL6	CCL11	0.048935167	Physical Interactions	IREF-intact
+CCL26	CXCL11	0.04027572	Physical Interactions	IREF-intact
+CCL26	CCL8	0.069766805	Physical Interactions	IREF-intact
+CCL26	CXCL10	0.051578104	Physical Interactions	IREF-intact
+CCL26	CCL2	0.056709938	Physical Interactions	IREF-intact
+CCL26	CXCL9	0.019158173	Physical Interactions	IREF-intact
+CCL26	CCL13	0.055405743	Physical Interactions	IREF-intact
+CCL26	CCL5	0.028731398	Physical Interactions	IREF-intact
+CCL26	XCL2	0.057248782	Physical Interactions	IREF-intact
+CCL26	CCL11	0.03402972	Physical Interactions	IREF-intact
+CCL1	CXCL11	0.40022567	Physical Interactions	IREF-intact
+CCL8	CXCL11	0.052109916	Physical Interactions	IREF-matrixdb
+CXCL10	CXCL11	0.039246164	Physical Interactions	IREF-matrixdb
+CXCL10	CCL8	0.06804765	Physical Interactions	IREF-matrixdb
+CCL2	CCL8	0.076413095	Physical Interactions	IREF-matrixdb
+CXCL9	CXCL11	0.030866781	Physical Interactions	IREF-matrixdb
+CXCL9	CXCL10	0.04030733	Physical Interactions	IREF-matrixdb
+CXCL9	CCL2	0.045262523	Physical Interactions	IREF-matrixdb
+CXCL8	CCL8	0.087057576	Physical Interactions	IREF-matrixdb
+CXCL8	CCL2	0.07362717	Physical Interactions	IREF-matrixdb
+CCL13	CXCL11	0.040088277	Physical Interactions	IREF-matrixdb
+CCL13	CCL8	0.069507755	Physical Interactions	IREF-matrixdb
+CCL13	CXCL10	0.05234921	Physical Interactions	IREF-matrixdb
+CCL13	CXCL9	0.041172218	Physical Interactions	IREF-matrixdb
+CCL5	CXCL11	0.017080447	Physical Interactions	IREF-matrixdb
+CCL5	CCL8	0.029615227	Physical Interactions	IREF-matrixdb
+CCL5	CXCL10	0.022304472	Physical Interactions	IREF-matrixdb
+CCL5	CCL16	0.25518203	Physical Interactions	IREF-matrixdb
+CCL5	CCL2	0.025046475	Physical Interactions	IREF-matrixdb
+CCL5	CXCL9	0.01754228	Physical Interactions	IREF-matrixdb
+CCL5	CCL13	0.022783063	Physical Interactions	IREF-matrixdb
+CCL15	CCL2	0.4827091	Physical Interactions	IREF-matrixdb
+XCL2	CCL8	0.07407454	Physical Interactions	IREF-matrixdb
+XCL2	CCL7	0.123328805	Physical Interactions	IREF-matrixdb
+XCL2	CCL5	0.024279948	Physical Interactions	IREF-matrixdb
+CCL11	CXCL11	0.024938757	Physical Interactions	IREF-matrixdb
+CCL11	CCL8	0.043240495	Physical Interactions	IREF-matrixdb
+CCL11	CXCL10	0.03256623	Physical Interactions	IREF-matrixdb
+CCL11	CCL2	0.036569767	Physical Interactions	IREF-matrixdb
+CCL11	CXCL9	0.02561307	Physical Interactions	IREF-matrixdb
+CCL11	CCL13	0.033265013	Physical Interactions	IREF-matrixdb
+CCL11	CCL5	0.014173252	Physical Interactions	IREF-matrixdb
+CCL11	CCL18	0.0549003	Physical Interactions	IREF-matrixdb
+CCR5	CCL5	0.054634687	Physical Interactions	IREF-matrixdb
+CCL4L2	CCL2	0.14840718	Physical Interactions	IREF-matrixdb
+CXCL6	CCL8	0.09620503	Physical Interactions	IREF-matrixdb
+CXCL6	CXCL10	0.07245605	Physical Interactions	IREF-matrixdb
+CXCL6	CCL7	0.16017449	Physical Interactions	IREF-matrixdb
+CXCL6	CCL5	0.031533822	Physical Interactions	IREF-matrixdb
+CXCL6	CCL11	0.04604179	Physical Interactions	IREF-matrixdb
+CCL26	CXCL11	0.04006702	Physical Interactions	IREF-matrixdb
+CCL26	CCL8	0.06947091	Physical Interactions	IREF-matrixdb
+CCL26	CXCL10	0.052321453	Physical Interactions	IREF-matrixdb
+CCL26	CCL2	0.058753606	Physical Interactions	IREF-matrixdb
+CCL26	CXCL9	0.041150387	Physical Interactions	IREF-matrixdb
+CCL26	CCL13	0.053444125	Physical Interactions	IREF-matrixdb
+CCL26	CCL5	0.022770984	Physical Interactions	IREF-matrixdb
+CCL26	XCL2	0.056955494	Physical Interactions	IREF-matrixdb
+CCL26	CCL11	0.033247374	Physical Interactions	IREF-matrixdb
+CCL1	CXCL11	0.38371173	Physical Interactions	IREF-matrixdb
+CCL8	CXCL11	0.16956994	Predicted	Wu-Stein-2010
+CXCL10	CXCL11	0.2349246	Predicted	Wu-Stein-2010
+CXCL10	CCL8	0.128778	Predicted	Wu-Stein-2010
+CCL7	CCL8	0.09461419	Predicted	Wu-Stein-2010
+CCL2	CCL8	0.054954913	Predicted	Wu-Stein-2010
+CCL2	IL6	0.07544984	Predicted	Wu-Stein-2010
+CCL2	CCL7	0.05593721	Predicted	Wu-Stein-2010
+IL37	IL18	0.5179119	Predicted	Wu-Stein-2010
+CXCL9	CXCL11	0.18736002	Predicted	Wu-Stein-2010
+CXCL9	CXCL10	0.14228846	Predicted	Wu-Stein-2010
+CXCL9	CCL2	0.06072039	Predicted	Wu-Stein-2010
+CXCL8	IL6	0.09190464	Predicted	Wu-Stein-2010
+CXCL8	CXCL10	0.09273961	Predicted	Wu-Stein-2010
+CXCL8	CCL7	0.06813651	Predicted	Wu-Stein-2010
+CXCL8	CCL2	0.039575845	Predicted	Wu-Stein-2010
+CXCL8	CXCL9	0.07396286	Predicted	Wu-Stein-2010
+CCL13	CCL7	0.15979053	Predicted	Wu-Stein-2010
+CCL13	CCL2	0.0928114	Predicted	Wu-Stein-2010
+IL1B	IL18	0.26134908	Predicted	Wu-Stein-2010
+CCL5	CXCL11	0.09175323	Predicted	Wu-Stein-2010
+CCL5	CXCL10	0.06968096	Predicted	Wu-Stein-2010
+CCL5	CCL2	0.029735757	Predicted	Wu-Stein-2010
+CCL5	CXCL9	0.055572826	Predicted	Wu-Stein-2010
+CCL5	CXCL8	0.036220808	Predicted	Wu-Stein-2010
+IL18BP	IL18	0.5179119	Predicted	Wu-Stein-2010
+CCL18	CXCL10	0.17086841	Predicted	Wu-Stein-2010
+CCL18	CCL2	0.07291665	Predicted	Wu-Stein-2010
+CCL18	CXCL9	0.13627312	Predicted	Wu-Stein-2010
+CCL18	CCL5	0.06673515	Predicted	Wu-Stein-2010
+CCL11	CCL2	0.12869398	Predicted	Wu-Stein-2010
+CCR5	CCL8	0.059332643	Predicted	Wu-Stein-2010
+CCR5	CCL16	0.3892178	Predicted	Wu-Stein-2010
+CCR5	CCL7	0.06039319	Predicted	Wu-Stein-2010
+CCR5	CCL2	0.035078276	Predicted	Wu-Stein-2010
+CCR5	CCL13	0.10020479	Predicted	Wu-Stein-2010
+CCL3	CCL2	0.048349626	Predicted	Wu-Stein-2010
+CCL3	CXCL8	0.05889416	Predicted	Wu-Stein-2010
+CCL3	CCL5	0.04425079	Predicted	Wu-Stein-2010
+CCL3	CCL18	0.10850975	Predicted	Wu-Stein-2010
+CCL8	CXCL11	0.022727273	Shared protein domains	PFAM
+CXCL10	CXCL11	0.022727273	Shared protein domains	PFAM
+CXCL10	CCL8	0.022727273	Shared protein domains	PFAM
+CCL16	CXCL11	0.022727273	Shared protein domains	PFAM
+CCL16	CCL8	0.022727273	Shared protein domains	PFAM
+CCL16	CXCL10	0.022727273	Shared protein domains	PFAM
+CCL7	CXCL11	0.022727273	Shared protein domains	PFAM
+CCL7	CCL8	0.022727273	Shared protein domains	PFAM
+CCL7	CXCL10	0.022727273	Shared protein domains	PFAM
+CCL7	CCL16	0.022727273	Shared protein domains	PFAM
+IL18	IL1RN	0.11293584	Shared protein domains	PFAM
+CCL2	CXCL11	0.022727273	Shared protein domains	PFAM
+CCL2	CCL8	0.022727273	Shared protein domains	PFAM
+CCL2	CXCL10	0.022727273	Shared protein domains	PFAM
+CCL2	CCL16	0.022727273	Shared protein domains	PFAM
+CCL2	CCL7	0.022727273	Shared protein domains	PFAM
+IL37	IL1RN	0.11293584	Shared protein domains	PFAM
+IL37	IL18	0.11293584	Shared protein domains	PFAM
+CXCL9	CXCL11	0.022727273	Shared protein domains	PFAM
+CXCL9	CCL8	0.022727273	Shared protein domains	PFAM
+CXCL9	CXCL10	0.022727273	Shared protein domains	PFAM
+CXCL9	CCL16	0.022727273	Shared protein domains	PFAM
+CXCL9	CCL7	0.022727273	Shared protein domains	PFAM
+CXCL9	CCL2	0.022727273	Shared protein domains	PFAM
+CXCL8	CXCL11	0.022727273	Shared protein domains	PFAM
+CXCL8	CCL8	0.022727273	Shared protein domains	PFAM
+CXCL8	CXCL10	0.022727273	Shared protein domains	PFAM
+CXCL8	CCL16	0.022727273	Shared protein domains	PFAM
+CXCL8	CCL7	0.022727273	Shared protein domains	PFAM
+CXCL8	CCL2	0.022727273	Shared protein domains	PFAM
+CXCL8	CXCL9	0.022727273	Shared protein domains	PFAM
+CCL13	CXCL11	0.022727273	Shared protein domains	PFAM
+CCL13	CCL8	0.022727273	Shared protein domains	PFAM
+CCL13	CXCL10	0.022727273	Shared protein domains	PFAM
+CCL13	CCL16	0.022727273	Shared protein domains	PFAM
+CCL13	CCL7	0.022727273	Shared protein domains	PFAM
+CCL13	CCL2	0.022727273	Shared protein domains	PFAM
+CCL13	CXCL9	0.022727273	Shared protein domains	PFAM
+CCL13	CXCL8	0.022727273	Shared protein domains	PFAM
+IL1B	IL1RN	0.10089646	Shared protein domains	PFAM
+IL1B	IL18	0.10089646	Shared protein domains	PFAM
+IL1B	IL37	0.10089646	Shared protein domains	PFAM
+CCL5	CXCL11	0.022727273	Shared protein domains	PFAM
+CCL5	CCL8	0.022727273	Shared protein domains	PFAM
+CCL5	CXCL10	0.022727273	Shared protein domains	PFAM
+CCL5	CCL16	0.022727273	Shared protein domains	PFAM
+CCL5	CCL7	0.022727273	Shared protein domains	PFAM
+CCL5	CCL2	0.022727273	Shared protein domains	PFAM
+CCL5	CXCL9	0.022727273	Shared protein domains	PFAM
+CCL5	CXCL8	0.022727273	Shared protein domains	PFAM
+CCL5	CCL13	0.022727273	Shared protein domains	PFAM
+CCL15	CXCL11	0.022727273	Shared protein domains	PFAM
+CCL15	CCL8	0.022727273	Shared protein domains	PFAM
+CCL15	CXCL10	0.022727273	Shared protein domains	PFAM
+CCL15	CCL16	0.022727273	Shared protein domains	PFAM
+CCL15	CCL7	0.022727273	Shared protein domains	PFAM
+CCL15	CCL2	0.022727273	Shared protein domains	PFAM
+CCL15	CXCL9	0.022727273	Shared protein domains	PFAM
+CCL15	CXCL8	0.022727273	Shared protein domains	PFAM
+CCL15	CCL13	0.022727273	Shared protein domains	PFAM
+CCL15	CCL5	0.022727273	Shared protein domains	PFAM
+CCL18	CXCL11	0.022727273	Shared protein domains	PFAM
+CCL18	CCL8	0.022727273	Shared protein domains	PFAM
+CCL18	CXCL10	0.022727273	Shared protein domains	PFAM
+CCL18	CCL16	0.022727273	Shared protein domains	PFAM
+CCL18	CCL7	0.022727273	Shared protein domains	PFAM
+CCL18	CCL2	0.022727273	Shared protein domains	PFAM
+CCL18	CXCL9	0.022727273	Shared protein domains	PFAM
+CCL18	CXCL8	0.022727273	Shared protein domains	PFAM
+CCL18	CCL13	0.022727273	Shared protein domains	PFAM
+CCL18	CCL5	0.022727273	Shared protein domains	PFAM
+CCL18	CCL15	0.022727273	Shared protein domains	PFAM
+XCL2	CXCL11	0.022727273	Shared protein domains	PFAM
+XCL2	CCL8	0.022727273	Shared protein domains	PFAM
+XCL2	CXCL10	0.022727273	Shared protein domains	PFAM
+XCL2	CCL16	0.022727273	Shared protein domains	PFAM
+XCL2	CCL7	0.022727273	Shared protein domains	PFAM
+XCL2	CCL2	0.022727273	Shared protein domains	PFAM
+XCL2	CXCL9	0.022727273	Shared protein domains	PFAM
+XCL2	CXCL8	0.022727273	Shared protein domains	PFAM
+XCL2	CCL13	0.022727273	Shared protein domains	PFAM
+XCL2	CCL5	0.022727273	Shared protein domains	PFAM
+XCL2	CCL15	0.022727273	Shared protein domains	PFAM
+XCL2	CCL18	0.022727273	Shared protein domains	PFAM
+CCL11	CXCL11	0.022727273	Shared protein domains	PFAM
+CCL11	CCL8	0.022727273	Shared protein domains	PFAM
+CCL11	CXCL10	0.022727273	Shared protein domains	PFAM
+CCL11	CCL16	0.022727273	Shared protein domains	PFAM
+CCL11	CCL7	0.022727273	Shared protein domains	PFAM
+CCL11	CCL2	0.022727273	Shared protein domains	PFAM
+CCL11	CXCL9	0.022727273	Shared protein domains	PFAM
+CCL11	CXCL8	0.022727273	Shared protein domains	PFAM
+CCL11	CCL13	0.022727273	Shared protein domains	PFAM
+CCL11	CCL5	0.022727273	Shared protein domains	PFAM
+CCL11	CCL15	0.022727273	Shared protein domains	PFAM
+CCL11	CCL18	0.022727273	Shared protein domains	PFAM
+CCL11	XCL2	0.022727273	Shared protein domains	PFAM
+CCL4L2	CXCL11	0.022727273	Shared protein domains	PFAM
+CCL4L2	CCL8	0.022727273	Shared protein domains	PFAM
+CCL4L2	CXCL10	0.022727273	Shared protein domains	PFAM
+CCL4L2	CCL16	0.022727273	Shared protein domains	PFAM
+CCL4L2	CCL7	0.022727273	Shared protein domains	PFAM
+CCL4L2	CCL2	0.022727273	Shared protein domains	PFAM
+CCL4L2	CXCL9	0.022727273	Shared protein domains	PFAM
+CCL4L2	CXCL8	0.022727273	Shared protein domains	PFAM
+CCL4L2	CCL13	0.022727273	Shared protein domains	PFAM
+CCL4L2	CCL5	0.022727273	Shared protein domains	PFAM
+CCL4L2	CCL15	0.022727273	Shared protein domains	PFAM
+CCL4L2	CCL18	0.022727273	Shared protein domains	PFAM
+CCL4L2	XCL2	0.022727273	Shared protein domains	PFAM
+CCL4L2	CCL11	0.022727273	Shared protein domains	PFAM
+CXCL6	CXCL11	0.022727273	Shared protein domains	PFAM
+CXCL6	CCL8	0.022727273	Shared protein domains	PFAM
+CXCL6	CXCL10	0.022727273	Shared protein domains	PFAM
+CXCL6	CCL16	0.022727273	Shared protein domains	PFAM
+CXCL6	CCL7	0.022727273	Shared protein domains	PFAM
+CXCL6	CCL2	0.022727273	Shared protein domains	PFAM
+CXCL6	CXCL9	0.022727273	Shared protein domains	PFAM
+CXCL6	CXCL8	0.022727273	Shared protein domains	PFAM
+CXCL6	CCL13	0.022727273	Shared protein domains	PFAM
+CXCL6	CCL5	0.022727273	Shared protein domains	PFAM
+CXCL6	CCL15	0.022727273	Shared protein domains	PFAM
+CXCL6	CCL18	0.022727273	Shared protein domains	PFAM
+CXCL6	XCL2	0.022727273	Shared protein domains	PFAM
+CXCL6	CCL11	0.022727273	Shared protein domains	PFAM
+CXCL6	CCL4L2	0.022727273	Shared protein domains	PFAM
+IL36B	IL1RN	0.11293584	Shared protein domains	PFAM
+IL36B	IL18	0.11293584	Shared protein domains	PFAM
+IL36B	IL37	0.11293584	Shared protein domains	PFAM
+IL36B	IL1B	0.10089646	Shared protein domains	PFAM
+CCL26	CXCL11	0.022727273	Shared protein domains	PFAM
+CCL26	CCL8	0.022727273	Shared protein domains	PFAM
+CCL26	CXCL10	0.022727273	Shared protein domains	PFAM
+CCL26	CCL16	0.022727273	Shared protein domains	PFAM
+CCL26	CCL7	0.022727273	Shared protein domains	PFAM
+CCL26	CCL2	0.022727273	Shared protein domains	PFAM
+CCL26	CXCL9	0.022727273	Shared protein domains	PFAM
+CCL26	CXCL8	0.022727273	Shared protein domains	PFAM
+CCL26	CCL13	0.022727273	Shared protein domains	PFAM
+CCL26	CCL5	0.022727273	Shared protein domains	PFAM
+CCL26	CCL15	0.022727273	Shared protein domains	PFAM
+CCL26	CCL18	0.022727273	Shared protein domains	PFAM
+CCL26	XCL2	0.022727273	Shared protein domains	PFAM
+CCL26	CCL11	0.022727273	Shared protein domains	PFAM
+CCL26	CCL4L2	0.022727273	Shared protein domains	PFAM
+CCL26	CXCL6	0.022727273	Shared protein domains	PFAM
+IL36RN	IL1RN	0.11293584	Shared protein domains	PFAM
+IL36RN	IL18	0.11293584	Shared protein domains	PFAM
+IL36RN	IL37	0.11293584	Shared protein domains	PFAM
+IL36RN	IL1B	0.10089646	Shared protein domains	PFAM
+IL36RN	IL36B	0.11293584	Shared protein domains	PFAM
+CCL1	CXCL11	0.022727273	Shared protein domains	PFAM
+CCL1	CCL8	0.022727273	Shared protein domains	PFAM
+CCL1	CXCL10	0.022727273	Shared protein domains	PFAM
+CCL1	CCL16	0.022727273	Shared protein domains	PFAM
+CCL1	CCL7	0.022727273	Shared protein domains	PFAM
+CCL1	CCL2	0.022727273	Shared protein domains	PFAM
+CCL1	CXCL9	0.022727273	Shared protein domains	PFAM
+CCL1	CXCL8	0.022727273	Shared protein domains	PFAM
+CCL1	CCL13	0.022727273	Shared protein domains	PFAM
+CCL1	CCL5	0.022727273	Shared protein domains	PFAM
+CCL1	CCL15	0.022727273	Shared protein domains	PFAM
+CCL1	CCL18	0.022727273	Shared protein domains	PFAM
+CCL1	XCL2	0.022727273	Shared protein domains	PFAM
+CCL1	CCL11	0.022727273	Shared protein domains	PFAM
+CCL1	CCL4L2	0.022727273	Shared protein domains	PFAM
+CCL1	CXCL6	0.022727273	Shared protein domains	PFAM
+CCL1	CCL26	0.022727273	Shared protein domains	PFAM
+IL36G	IL1RN	0.11293584	Shared protein domains	PFAM
+IL36G	IL18	0.11293584	Shared protein domains	PFAM
+IL36G	IL37	0.11293584	Shared protein domains	PFAM
+IL36G	IL1B	0.10089646	Shared protein domains	PFAM
+IL36G	IL36B	0.11293584	Shared protein domains	PFAM
+IL36G	IL36RN	0.11293584	Shared protein domains	PFAM
+CCL3	CXCL11	0.022727273	Shared protein domains	PFAM
+CCL3	CCL8	0.022727273	Shared protein domains	PFAM
+CCL3	CXCL10	0.022727273	Shared protein domains	PFAM
+CCL3	CCL16	0.022727273	Shared protein domains	PFAM
+CCL3	CCL7	0.022727273	Shared protein domains	PFAM
+CCL3	CCL2	0.022727273	Shared protein domains	PFAM
+CCL3	CXCL9	0.022727273	Shared protein domains	PFAM
+CCL3	CXCL8	0.022727273	Shared protein domains	PFAM
+CCL3	CCL13	0.022727273	Shared protein domains	PFAM
+CCL3	CCL5	0.022727273	Shared protein domains	PFAM
+CCL3	CCL15	0.022727273	Shared protein domains	PFAM
+CCL3	CCL18	0.022727273	Shared protein domains	PFAM
+CCL3	XCL2	0.022727273	Shared protein domains	PFAM
+CCL3	CCL11	0.022727273	Shared protein domains	PFAM
+CCL3	CCL4L2	0.022727273	Shared protein domains	PFAM
+CCL3	CXCL6	0.022727273	Shared protein domains	PFAM
+CCL3	CCL26	0.022727273	Shared protein domains	PFAM
+CCL3	CCL1	0.022727273	Shared protein domains	PFAM
+CCL8	CXCL11	0.016483858	Shared protein domains	INTERPRO
+CXCL10	CXCL11	0.04094544	Shared protein domains	INTERPRO
+CXCL10	CCL8	0.016483858	Shared protein domains	INTERPRO
+CCL16	CXCL11	0.017880784	Shared protein domains	INTERPRO
+CCL16	CCL8	0.024804918	Shared protein domains	INTERPRO
+CCL16	CXCL10	0.017880784	Shared protein domains	INTERPRO
+CCL7	CXCL11	0.016483858	Shared protein domains	INTERPRO
+CCL7	CCL8	0.028141612	Shared protein domains	INTERPRO
+CCL7	CXCL10	0.016483858	Shared protein domains	INTERPRO
+CCL7	CCL16	0.024804918	Shared protein domains	INTERPRO
+IL18	IL1RN	0.048151225	Shared protein domains	INTERPRO
+CCL2	CXCL11	0.016483858	Shared protein domains	INTERPRO
+CCL2	CCL8	0.028141612	Shared protein domains	INTERPRO
+CCL2	CXCL10	0.016483858	Shared protein domains	INTERPRO
+CCL2	CCL16	0.024804918	Shared protein domains	INTERPRO
+CCL2	CCL7	0.028141612	Shared protein domains	INTERPRO
+IL37	IL1RN	0.07364186	Shared protein domains	INTERPRO
+IL37	IL18	0.05285852	Shared protein domains	INTERPRO
+CXCL9	CXCL11	0.031229861	Shared protein domains	INTERPRO
+CXCL9	CCL8	0.018354552	Shared protein domains	INTERPRO
+CXCL9	CXCL10	0.031229861	Shared protein domains	INTERPRO
+CXCL9	CCL16	0.019910013	Shared protein domains	INTERPRO
+CXCL9	CCL7	0.018354552	Shared protein domains	INTERPRO
+CXCL9	CCL2	0.018354552	Shared protein domains	INTERPRO
+CXCL8	CXCL11	0.04094544	Shared protein domains	INTERPRO
+CXCL8	CCL8	0.016483858	Shared protein domains	INTERPRO
+CXCL8	CXCL10	0.04094544	Shared protein domains	INTERPRO
+CXCL8	CCL16	0.017880784	Shared protein domains	INTERPRO
+CXCL8	CCL7	0.016483858	Shared protein domains	INTERPRO
+CXCL8	CCL2	0.016483858	Shared protein domains	INTERPRO
+CXCL8	CXCL9	0.031229861	Shared protein domains	INTERPRO
+CCL13	CXCL11	0.016483858	Shared protein domains	INTERPRO
+CCL13	CCL8	0.028141612	Shared protein domains	INTERPRO
+CCL13	CXCL10	0.016483858	Shared protein domains	INTERPRO
+CCL13	CCL16	0.024804918	Shared protein domains	INTERPRO
+CCL13	CCL7	0.028141612	Shared protein domains	INTERPRO
+CCL13	CCL2	0.028141612	Shared protein domains	INTERPRO
+CCL13	CXCL9	0.018354552	Shared protein domains	INTERPRO
+CCL13	CXCL8	0.016483858	Shared protein domains	INTERPRO
+IL1B	IL1RN	0.07149708	Shared protein domains	INTERPRO
+IL1B	IL18	0.05131887	Shared protein domains	INTERPRO
+IL1B	IL37	0.04618654	Shared protein domains	INTERPRO
+CCL5	CXCL11	0.016483858	Shared protein domains	INTERPRO
+CCL5	CCL8	0.028141612	Shared protein domains	INTERPRO
+CCL5	CXCL10	0.016483858	Shared protein domains	INTERPRO
+CCL5	CCL16	0.024804918	Shared protein domains	INTERPRO
+CCL5	CCL7	0.028141612	Shared protein domains	INTERPRO
+CCL5	CCL2	0.028141612	Shared protein domains	INTERPRO
+CCL5	CXCL9	0.018354552	Shared protein domains	INTERPRO
+CCL5	CXCL8	0.016483858	Shared protein domains	INTERPRO
+CCL5	CCL13	0.028141612	Shared protein domains	INTERPRO
+CCL15	CXCL11	0.017880784	Shared protein domains	INTERPRO
+CCL15	CCL8	0.024804918	Shared protein domains	INTERPRO
+CCL15	CXCL10	0.017880784	Shared protein domains	INTERPRO
+CCL15	CCL16	0.023804033	Shared protein domains	INTERPRO
+CCL15	CCL7	0.024804918	Shared protein domains	INTERPRO
+CCL15	CCL2	0.024804918	Shared protein domains	INTERPRO
+CCL15	CXCL9	0.019910013	Shared protein domains	INTERPRO
+CCL15	CXCL8	0.017880784	Shared protein domains	INTERPRO
+CCL15	CCL13	0.024804918	Shared protein domains	INTERPRO
+CCL15	CCL5	0.024804918	Shared protein domains	INTERPRO
+CCL18	CXCL11	0.016483858	Shared protein domains	INTERPRO
+CCL18	CCL8	0.028141612	Shared protein domains	INTERPRO
+CCL18	CXCL10	0.016483858	Shared protein domains	INTERPRO
+CCL18	CCL16	0.024804918	Shared protein domains	INTERPRO
+CCL18	CCL7	0.028141612	Shared protein domains	INTERPRO
+CCL18	CCL2	0.028141612	Shared protein domains	INTERPRO
+CCL18	CXCL9	0.018354552	Shared protein domains	INTERPRO
+CCL18	CXCL8	0.016483858	Shared protein domains	INTERPRO
+CCL18	CCL13	0.028141612	Shared protein domains	INTERPRO
+CCL18	CCL5	0.028141612	Shared protein domains	INTERPRO
+CCL18	CCL15	0.024804918	Shared protein domains	INTERPRO
+XCL2	CXCL11	0.019249737	Shared protein domains	INTERPRO
+XCL2	CCL8	0.020545319	Shared protein domains	INTERPRO
+XCL2	CXCL10	0.019249737	Shared protein domains	INTERPRO
+XCL2	CCL16	0.022286437	Shared protein domains	INTERPRO
+XCL2	CCL7	0.020545319	Shared protein domains	INTERPRO
+XCL2	CCL2	0.020545319	Shared protein domains	INTERPRO
+XCL2	CXCL9	0.021434322	Shared protein domains	INTERPRO
+XCL2	CXCL8	0.019249737	Shared protein domains	INTERPRO
+XCL2	CCL13	0.020545319	Shared protein domains	INTERPRO
+XCL2	CCL5	0.020545319	Shared protein domains	INTERPRO
+XCL2	CCL15	0.022286437	Shared protein domains	INTERPRO
+XCL2	CCL18	0.020545319	Shared protein domains	INTERPRO
+CCL11	CXCL11	0.016483858	Shared protein domains	INTERPRO
+CCL11	CCL8	0.028141612	Shared protein domains	INTERPRO
+CCL11	CXCL10	0.016483858	Shared protein domains	INTERPRO
+CCL11	CCL16	0.024804918	Shared protein domains	INTERPRO
+CCL11	CCL7	0.028141612	Shared protein domains	INTERPRO
+CCL11	CCL2	0.028141612	Shared protein domains	INTERPRO
+CCL11	CXCL9	0.018354552	Shared protein domains	INTERPRO
+CCL11	CXCL8	0.016483858	Shared protein domains	INTERPRO
+CCL11	CCL13	0.028141612	Shared protein domains	INTERPRO
+CCL11	CCL5	0.028141612	Shared protein domains	INTERPRO
+CCL11	CCL15	0.024804918	Shared protein domains	INTERPRO
+CCL11	CCL18	0.028141612	Shared protein domains	INTERPRO
+CCL11	XCL2	0.020545319	Shared protein domains	INTERPRO
+CCL4L2	CXCL11	0.016483858	Shared protein domains	INTERPRO
+CCL4L2	CCL8	0.028141612	Shared protein domains	INTERPRO
+CCL4L2	CXCL10	0.016483858	Shared protein domains	INTERPRO
+CCL4L2	CCL16	0.024804918	Shared protein domains	INTERPRO
+CCL4L2	CCL7	0.028141612	Shared protein domains	INTERPRO
+CCL4L2	CCL2	0.028141612	Shared protein domains	INTERPRO
+CCL4L2	CXCL9	0.018354552	Shared protein domains	INTERPRO
+CCL4L2	CXCL8	0.016483858	Shared protein domains	INTERPRO
+CCL4L2	CCL13	0.028141612	Shared protein domains	INTERPRO
+CCL4L2	CCL5	0.028141612	Shared protein domains	INTERPRO
+CCL4L2	CCL15	0.024804918	Shared protein domains	INTERPRO
+CCL4L2	CCL18	0.028141612	Shared protein domains	INTERPRO
+CCL4L2	XCL2	0.020545319	Shared protein domains	INTERPRO
+CCL4L2	CCL11	0.028141612	Shared protein domains	INTERPRO
+CXCL6	CXCL11	0.04094544	Shared protein domains	INTERPRO
+CXCL6	CCL8	0.016483858	Shared protein domains	INTERPRO
+CXCL6	CXCL10	0.04094544	Shared protein domains	INTERPRO
+CXCL6	CCL16	0.017880784	Shared protein domains	INTERPRO
+CXCL6	CCL7	0.016483858	Shared protein domains	INTERPRO
+CXCL6	CCL2	0.016483858	Shared protein domains	INTERPRO
+CXCL6	CXCL9	0.031229861	Shared protein domains	INTERPRO
+CXCL6	CXCL8	0.04094544	Shared protein domains	INTERPRO
+CXCL6	CCL13	0.016483858	Shared protein domains	INTERPRO
+CXCL6	CCL5	0.016483858	Shared protein domains	INTERPRO
+CXCL6	CCL15	0.017880784	Shared protein domains	INTERPRO
+CXCL6	CCL18	0.016483858	Shared protein domains	INTERPRO
+CXCL6	XCL2	0.019249737	Shared protein domains	INTERPRO
+CXCL6	CCL11	0.016483858	Shared protein domains	INTERPRO
+CXCL6	CCL4L2	0.016483858	Shared protein domains	INTERPRO
+IL36B	IL1RN	0.07368913	Shared protein domains	INTERPRO
+IL36B	IL18	0.05289245	Shared protein domains	INTERPRO
+IL36B	IL37	0.047602754	Shared protein domains	INTERPRO
+IL36B	IL1B	0.07853644	Shared protein domains	INTERPRO
+CCL26	CXCL11	0.016483858	Shared protein domains	INTERPRO
+CCL26	CCL8	0.028141612	Shared protein domains	INTERPRO
+CCL26	CXCL10	0.016483858	Shared protein domains	INTERPRO
+CCL26	CCL16	0.024804918	Shared protein domains	INTERPRO
+CCL26	CCL7	0.028141612	Shared protein domains	INTERPRO
+CCL26	CCL2	0.028141612	Shared protein domains	INTERPRO
+CCL26	CXCL9	0.018354552	Shared protein domains	INTERPRO
+CCL26	CXCL8	0.016483858	Shared protein domains	INTERPRO
+CCL26	CCL13	0.028141612	Shared protein domains	INTERPRO
+CCL26	CCL5	0.028141612	Shared protein domains	INTERPRO
+CCL26	CCL15	0.024804918	Shared protein domains	INTERPRO
+CCL26	CCL18	0.028141612	Shared protein domains	INTERPRO
+CCL26	XCL2	0.020545319	Shared protein domains	INTERPRO
+CCL26	CCL11	0.028141612	Shared protein domains	INTERPRO
+CCL26	CCL4L2	0.028141612	Shared protein domains	INTERPRO
+CCL26	CXCL6	0.016483858	Shared protein domains	INTERPRO
+IL36RN	IL1RN	0.09265095	Shared protein domains	INTERPRO
+IL36RN	IL18	0.04711332	Shared protein domains	INTERPRO
+IL36RN	IL37	0.0720545	Shared protein domains	INTERPRO
+IL36RN	IL1B	0.06995596	Shared protein domains	INTERPRO
+IL36RN	IL36B	0.07210075	Shared protein domains	INTERPRO
+CCL1	CXCL11	0.016483858	Shared protein domains	INTERPRO
+CCL1	CCL8	0.028141612	Shared protein domains	INTERPRO
+CCL1	CXCL10	0.016483858	Shared protein domains	INTERPRO
+CCL1	CCL16	0.024804918	Shared protein domains	INTERPRO
+CCL1	CCL7	0.028141612	Shared protein domains	INTERPRO
+CCL1	CCL2	0.028141612	Shared protein domains	INTERPRO
+CCL1	CXCL9	0.018354552	Shared protein domains	INTERPRO
+CCL1	CXCL8	0.016483858	Shared protein domains	INTERPRO
+CCL1	CCL13	0.028141612	Shared protein domains	INTERPRO
+CCL1	CCL5	0.028141612	Shared protein domains	INTERPRO
+CCL1	CCL15	0.024804918	Shared protein domains	INTERPRO
+CCL1	CCL18	0.028141612	Shared protein domains	INTERPRO
+CCL1	XCL2	0.020545319	Shared protein domains	INTERPRO
+CCL1	CCL11	0.028141612	Shared protein domains	INTERPRO
+CCL1	CCL4L2	0.028141612	Shared protein domains	INTERPRO
+CCL1	CXCL6	0.016483858	Shared protein domains	INTERPRO
+CCL1	CCL26	0.028141612	Shared protein domains	INTERPRO
+IL36G	IL1RN	0.07364186	Shared protein domains	INTERPRO
+IL36G	IL18	0.05285852	Shared protein domains	INTERPRO
+IL36G	IL37	0.08084049	Shared protein domains	INTERPRO
+IL36G	IL1B	0.04618654	Shared protein domains	INTERPRO
+IL36G	IL36B	0.047602754	Shared protein domains	INTERPRO
+IL36G	IL36RN	0.0720545	Shared protein domains	INTERPRO
+CCL3	CXCL11	0.016483858	Shared protein domains	INTERPRO
+CCL3	CCL8	0.028141612	Shared protein domains	INTERPRO
+CCL3	CXCL10	0.016483858	Shared protein domains	INTERPRO
+CCL3	CCL16	0.024804918	Shared protein domains	INTERPRO
+CCL3	CCL7	0.028141612	Shared protein domains	INTERPRO
+CCL3	CCL2	0.028141612	Shared protein domains	INTERPRO
+CCL3	CXCL9	0.018354552	Shared protein domains	INTERPRO
+CCL3	CXCL8	0.016483858	Shared protein domains	INTERPRO
+CCL3	CCL13	0.028141612	Shared protein domains	INTERPRO
+CCL3	CCL5	0.028141612	Shared protein domains	INTERPRO
+CCL3	CCL15	0.024804918	Shared protein domains	INTERPRO
+CCL3	CCL18	0.028141612	Shared protein domains	INTERPRO
+CCL3	XCL2	0.020545319	Shared protein domains	INTERPRO
+CCL3	CCL11	0.028141612	Shared protein domains	INTERPRO
+CCL3	CCL4L2	0.028141612	Shared protein domains	INTERPRO
+CCL3	CXCL6	0.016483858	Shared protein domains	INTERPRO
+CCL3	CCL26	0.028141612	Shared protein domains	INTERPRO
+CCL3	CCL1	0.028141612	Shared protein domains	INTERPRO

@@ -1,0 +1,92 @@
+AMOT	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	NF2
+AMOT	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1_validation.txt	EGFR
+AMOT	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1_validation.txt	NEO1
+AMOT	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1_validation.txt	RPS6KA1
+AMOT	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1_validation.txt	WWC1
+BOC	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	CDON
+BOC	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	SHH
+BOC	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1_validation.txt	NTN3
+BOC	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1_validation.txt	CDH2
+BOC	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1_validation.txt	CDH15
+BOC	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	IHH
+BOC	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1_validation.txt	NEO1
+BOC	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	DHH
+BOC	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	IL6R
+CDON	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	IL6R
+CDON	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	IL6ST
+EZR	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1_validation.txt	PPP1R8
+NF2	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1_validation.txt	PPP1R8
+PPP1R8	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1_validation.txt	PRKACA
+CRP	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	IL6
+CRP	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	IL6ST
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	SOD2
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	IL6R
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	STAT1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	IL6ST
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	OSM
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	LIF
+IL6R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	SOD2
+IL6R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	OSM
+IL6R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	STAT1
+IL6R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	IL6ST
+IL6ST	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	OSM
+IL6ST	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	STAT1
+IL6ST	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	STAT2
+IL6ST	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt	LIF
+L-Glutamic acid	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1_validation.txt	gamma-Glutamylcysteine
+L-Glutamic acid	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1_validation.txt	cis-Aconitic acid
+L-Glutamic acid	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1_validation.txt	dTDP-D-glucose
+Maleic acid	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1_validation.txt	cis-Aconitic acid
+Pyroglutamic acid	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1_validation.txt	gamma-Glutamylcysteine
+Unknown_mz_1058.77478_+_RT_1.233	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_574.87506_+_RT_1.219
+Unknown_mz_372.06555_-_RT_6.328	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_574.1582_-_RT_4.8
+Unknown_mz_374.07993_+_RT_6.087	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_574.1582_-_RT_4.8
+Unknown_mz_404.09171_-_RT_6.319	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_574.1582_-_RT_4.8
+Unknown_mz_404.09183_-_RT_6.086	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_574.1582_-_RT_4.8
+Unknown_mz_406.10617_+_RT_6.089	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_574.1582_-_RT_4.8
+Unknown_mz_450.16962_+_RT_7.733	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_574.1582_-_RT_4.8
+Unknown_mz_544.14728_+_RT_5.256	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_574.1582_-_RT_4.8
+Unknown_mz_548.18152_-_RT_5.443	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_574.1582_-_RT_4.8
+Unknown_mz_552.17627_-_RT_1.494	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_574.1582_-_RT_4.8
+Unknown_mz_552.17645_-_RT_4.951	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_574.1582_-_RT_4.8
+Unknown_mz_552.17676_-_RT_5.24	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_574.1582_-_RT_4.8
+Unknown_mz_553.03851_-_RT_3.772	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_575.02032_-_RT_3.768
+Unknown_mz_554.19055_+_RT_1.491	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_574.1582_-_RT_4.8
+Unknown_mz_555.05383_+_RT_3.769	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_575.02032_-_RT_3.768
+Unknown_mz_558.16382_+_RT_5.04	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_574.1582_-_RT_4.8
+Unknown_mz_566.19153_-_RT_4.833	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_574.1582_-_RT_4.8
+Unknown_mz_568.20624_+_RT_4.835	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_574.1582_-_RT_4.8
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_904.3288_-_RT_5.061
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_702.22943_+_RT_4.671
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_700.21387_-_RT_4.675
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_590.10034_+_RT_5.057
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_711.02039_-_RT_5.487
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_709.02344_-_RT_5.488
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_608.20129_+_RT_5.655
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_622.25513_-_RT_6.915
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_716.24829_+_RT_1.473
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_770.16412_+_RT_4.598
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_611.21313_+_RT_4.74
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_608.10944_+_RT_4.8
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_776.20416_+_RT_4.468
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_774.18951_-_RT_4.469
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_813.20117_-_RT_4.787
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_576.17255_+_RT_4.803
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_788.20532_-_RT_4.861
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_754.2066_-_RT_5.139
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_626.21313_+_RT_5.367
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_624.19812_-_RT_5.368
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_604.20496_+_RT_5.698
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_616.18427_-_RT_5.701
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_854.29572_-_RT_5.701
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_582.22241_+_RT_6.387
+Unknown_mz_574.1582_-_RT_4.8	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_580.20782_-_RT_6.389
+Unknown_mz_574.87506_+_RT_1.219	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_900.80591_+_RT_1.162
+Unknown_mz_574.87506_+_RT_1.219	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_764.83282_+_RT_1.159
+Unknown_mz_574.87506_+_RT_1.219	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_860.84717_-_RT_1.22
+Unknown_mz_574.87506_+_RT_1.219	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_944.80975_-_RT_1.223
+Unknown_mz_575.02032_-_RT_3.768	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_651.01086_-_RT_3.766
+L-Glutamic acid	bipartite/metabolite-protein--moderate.txt	IL6
+Pyroglutamic acid	bipartite/metabolite-protein--moderate.txt	BOC
+L-Glutamic acid	bipartite/metabolite-protein--moderate.txt	IL6
+Pyroglutamic acid	bipartite/metabolite-protein--moderate.txt	BOC

@@ -1,0 +1,462 @@
+L-Glutamic acid	Adipic acid
+L-Glutamic acid	Isovaleryl-CoA
+L-Aspartic acid	Oxoglutaric acid
+L-Glutamic acid	Oxoglutaric acid
+Maleic acid	Oxoglutaric acid
+L-Glutamic acid	Glutaconic acid
+L-Aspartic acid	Adenosine triphosphate
+L-Glutamic acid	Adenosine triphosphate
+Glyceric acid	Adenosine triphosphate
+Pyroglutamic acid	Adenosine triphosphate
+Maleic acid	Adenosine triphosphate
+L-Aspartic acid	ADP
+L-Glutamic acid	ADP
+Glyceric acid	ADP
+Guanidoacetic acid	ADP
+Pyroglutamic acid	ADP
+Maleic acid	ADP
+L-Glutamic acid	FAD
+Maleic acid	FAD
+L-Aspartic acid	Coenzyme A
+L-Glutamic acid	Coenzyme A
+L-Octanoylcarnitine	Coenzyme A
+L-Glutamic acid	Oxoadipic acid
+L-Aspartic acid	Oxalacetic acid
+L-Glutamic acid	Oxalacetic acid
+Maleic acid	Oxalacetic acid
+L-Glutamic acid	Taurine
+L-Aspartic acid	Propionyl-CoA
+L-Aspartic acid	Glycine
+L-Glutamic acid	Glycine
+Glyceric acid	Glycine
+Guanidoacetic acid	Glycine
+L-Aspartic acid	NADH
+L-Glutamic acid	NADH
+Glyceric acid	NADH
+L-Aspartic acid	Adenosine monophosphate
+L-Glutamic acid	Adenosine monophosphate
+Pyroglutamic acid	Adenosine monophosphate
+L-Aspartic acid	Hydrogen peroxide
+L-Glutamic acid	Hydrogen peroxide
+Pyroglutamic acid	Hydrogen peroxide
+Maleic acid	Hydrogen peroxide
+L-Aspartic acid	Oxygen
+L-Glutamic acid	Oxygen
+Maleic acid	Oxygen
+L-Glutamic acid	Putrescine
+L-Glutamic acid	Spermidine
+L-Glutamic acid	Nicotinamide ribotide
+L-Glutamic acid	Cadaverine
+L-Glutamic acid	1,3-Diaminopropane
+L-Glutamic acid	L-Aspartic acid
+L-Aspartic acid	Maleic acid
+L-Aspartic acid	Beta-N-Acetylglucosamine
+L-Glutamic acid	Beta-N-Acetylglucosamine
+Pyroglutamic acid	Beta-N-Acetylglucosamine
+Maleic acid	Beta-N-Acetylglucosamine
+L-Glutamic acid	5'-Deoxyadenosine
+L-Aspartic acid	Palmitic acid
+L-Glutamic acid	10-Formyltetrahydrofolate
+L-Glutamic acid	Uridine 5'-diphosphate
+L-Glutamic acid	Tetrahydrofolic acid
+L-Aspartic acid	NADP
+L-Glutamic acid	NADP
+Glyceric acid	NADP
+L-Aspartic acid	Carbon dioxide
+L-Glutamic acid	Carbon dioxide
+Glyceric acid	Carbon dioxide
+Maleic acid	Carbon dioxide
+L-Glutamic acid	L-Aspartic acid
+L-Glutamic acid	Pyroglutamic acid
+L-Glutamic acid	Maleic acid
+L-Glutamic acid	Serotonin
+L-Glutamic acid	L-Dopa
+L-Glutamic acid	L-Tyrosine
+L-Aspartic acid	L-Phenylalanine
+L-Glutamic acid	L-Phenylalanine
+Maleic acid	L-Phenylalanine
+L-Aspartic acid	L-Tryptophan
+L-Glutamic acid	L-Tryptophan
+L-Glutamic acid	Dopamine
+Pyroglutamic acid	Imidazole
+L-Glutamic acid	Phenylpyruvic acid
+2-Hydroxybutyric acid	Phenylpyruvic acid
+Maleic acid	Phenylpyruvic acid
+L-Aspartic acid	L-Glutamine
+L-Glutamic acid	L-Glutamine
+L-Aspartic acid	Guanosine monophosphate
+L-Glutamic acid	Guanosine monophosphate
+L-Aspartic acid	Guanosine triphosphate
+L-Glutamic acid	Guanosine triphosphate
+L-Glutamic acid	Uroporphyrinogen III
+L-Glutamic acid	Adenine
+L-Glutamic acid	D-Ribose
+L-Aspartic acid	L-Threonine
+L-Glutamic acid	L-Threonine
+Maleic acid	L-Threonine
+Pyroglutamic acid	Testosterone
+L-Glutamic acid	Glycogen
+L-Aspartic acid	Sucrose
+L-Glutamic acid	Sucrose
+L-Aspartic acid	Pyridoxal 5'-phosphate
+L-Glutamic acid	Pyridoxal 5'-phosphate
+Maleic acid	Pyridoxal 5'-phosphate
+L-Glutamic acid	Uridine diphosphate glucuronic acid
+L-Glutamic acid	Guanosine diphosphate mannose
+L-Glutamic acid	GDP-4-Dehydro-6-deoxy-D-mannose
+L-Glutamic acid	Uridine diphosphate-N-acetylglucosamine
+L-Glutamic acid	Glucose 6-phosphate
+L-Aspartic acid	Uridine 5'-monophosphate
+L-Glutamic acid	Uridine 5'-monophosphate
+L-Glutamic acid	CDP
+Pyroglutamic acid	Beta-D-Glucose
+Pyroglutamic acid	Alpha-D-Glucose
+L-Glutamic acid	Guanosine
+L-Glutamic acid	Fructose 6-phosphate
+L-Glutamic acid	Trehalose
+L-Aspartic acid	Magnesium
+L-Glutamic acid	Magnesium
+Guanidoacetic acid	Magnesium
+Pyroglutamic acid	Magnesium
+L-Aspartic acid	Guanosine diphosphate
+L-Glutamic acid	Guanosine diphosphate
+L-Glutamic acid	Agmatine
+L-Aspartic acid	scyllo-Inositol
+L-Glutamic acid	scyllo-Inositol
+L-Glutamic acid	Urea
+L-Glutamic acid	Glyoxylic acid
+Glyceric acid	Glyoxylic acid
+L-Glutamic acid	L-2,4-diaminobutyric acid
+L-Aspartic acid	L-Aspartate-semialdehyde
+L-Glutamic acid	L-Aspartate-semialdehyde
+L-Aspartic acid	L-Arginine
+L-Glutamic acid	L-Arginine
+Guanidoacetic acid	L-Arginine
+L-Glutamic acid	Arachidonic acid
+Pyroglutamic acid	Ethanol
+L-Aspartic acid	Choline
+L-Aspartic acid	L-Serine
+L-Glutamic acid	L-Serine
+Glyceric acid	L-Serine
+L-Aspartic acid	Pyridoxamine 5'-phosphate
+Maleic acid	Pyridoxamine 5'-phosphate
+L-Aspartic acid	Succinic acid
+L-Glutamic acid	Succinic acid
+L-Glutamic acid	Succinyl-CoA
+L-Aspartic acid	Propionic acid
+L-Glutamic acid	Propionic acid
+L-Aspartic acid	L-Cysteine
+L-Glutamic acid	L-Cysteine
+Pyroglutamic acid	L-Cysteine
+L-Aspartic acid	L-Alanine
+L-Glutamic acid	L-Alanine
+L-Aspartic acid	Cytidine triphosphate
+L-Glutamic acid	Cytidine triphosphate
+L-Aspartic acid	Dihydroxyacetone phosphate
+L-Glutamic acid	Chorismate
+Maleic acid	Chorismate
+L-Glutamic acid	D-Glyceraldehyde 3-phosphate
+L-Glutamic acid	p-Aminobenzoic acid
+L-Aspartic acid	Carbamoyl phosphate
+L-Glutamic acid	Carbamoyl phosphate
+L-Glutamic acid	N-Acetylornithine
+L-Aspartic acid	Ornithine
+L-Glutamic acid	Ornithine
+Guanidoacetic acid	Ornithine
+L-Glutamic acid	S-Adenosylhomocysteine
+Guanidoacetic acid	S-Adenosylhomocysteine
+Glyceric acid	2-O-(6-Phospho-alpha-mannosyl)-D-glycerate
+L-Aspartic acid	Pyruvic acid
+L-Glutamic acid	Pyruvic acid
+Glyceric acid	Pyruvic acid
+L-Aspartic acid	2-Phospho-D-glyceric acid
+Glyceric acid	2-Phospho-D-glyceric acid
+L-Glutamic acid	Valproic acid
+L-Glutamic acid	Spermine
+L-Glutamic acid	Glutaryl-CoA
+L-Glutamic acid	Adenosine
+L-Aspartic acid	Glycerol
+L-Glutamic acid	Glycerol
+Pyroglutamic acid	Glycerol
+L-Aspartic acid	Acetaldehyde
+L-Glutamic acid	Folic acid
+L-Glutamic acid	Uridine triphosphate
+L-Glutamic acid	Phthalic acid
+L-Glutamic acid	L(-)-Nicotine
+L-Aspartic acid	Sodium
+L-Glutamic acid	Sodium
+Glyceric acid	Sodium
+Pyroglutamic acid	Sodium
+L-Glutamic acid	5-Methyltetrahydrofolic acid
+L-Glutamic acid	D-Ribose 5-phosphate
+L-Glutamic acid	Acetyl-CoA
+L-Glutamic acid	N-Acetyl-D-Glucosamine 6-Phosphate
+L-Glutamic acid	D-Lactic acid
+L-Glutamic acid	Azelaic acid
+Pyroglutamic acid	Benzoic acid
+L-Glutamic acid	Saccharopine
+L-Glutamic acid	Allysine
+L-Aspartic acid	L-Lysine
+L-Glutamic acid	L-Lysine
+Maleic acid	L-Lysine
+L-Glutamic acid	Anandamide
+L-Glutamic acid	7,8-Dihydropteroic acid
+L-Glutamic acid	dGTP
+L-Glutamic acid	Dihydrofolic acid
+L-Glutamic acid	Malonic semialdehyde
+L-Glutamic acid	Capsaicin
+L-Glutamic acid	Acetylcholine
+L-Glutamic acid	Inositol 1,4,5-trisphosphate
+L-Glutamic acid	2-Methylbutyryl-CoA
+L-Glutamic acid	4-Hydroxyphenylpyruvic acid
+L-Glutamic acid	4-(Glutamylamino) butanoate
+L-Glutamic acid	Succinic acid semialdehyde
+L-Aspartic acid	Gamma-Aminobutyric acid
+L-Glutamic acid	Gamma-Aminobutyric acid
+Maleic acid	Gamma-Aminobutyric acid
+L-Glutamic acid	Gamma-glutamyl-L-putrescine
+L-Aspartic acid	Hydroxylamine
+L-Glutamic acid	Hydroxylamine
+L-Glutamic acid	Hydroxypropionic acid
+L-Glutamic acid	Hydrochlorothiazide
+L-Glutamic acid	Flavin Mononucleotide
+Glyceric acid	Galactaric acid
+Pyroglutamic acid	Beta-D-Galactose
+Pyroglutamic acid	D-Galactose
+L-Aspartic acid	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate
+L-Aspartic acid	5-Aminoimidazole ribonucleotide
+L-Glutamic acid	5-Aminoimidazole ribonucleotide
+L-Aspartic acid	D-Glutamic acid
+L-Glutamic acid	D-Glutamic acid
+Pyroglutamic acid	D-Glutamic acid
+L-Glutamic acid	L-Lactic acid
+L-Glutamic acid	Acetylphosphate
+L-Glutamic acid	Glycolic acid
+Glyceric acid	Glycolic acid
+L-Glutamic acid	Hydroxypyruvic acid
+Glyceric acid	Hydroxypyruvic acid
+L-Aspartic acid	Pyridoxamine
+L-Glutamic acid	Pyridoxamine
+L-Glutamic acid	2-Oxo-3-hydroxy-4-phosphobutanoic acid
+L-Glutamic acid	O-Phospho-4-hydroxy-L-threonine
+L-Glutamic acid	D-Alanine
+Pyroglutamic acid	Phenol
+L-Glutamic acid	6-Hydroxydopamine
+L-Glutamic acid	Rotenone
+L-Aspartic acid	Diacetyl
+L-Aspartic acid	N-Methyl-D-aspartic acid
+L-Glutamic acid	N-Methyl-D-aspartic acid
+L-Glutamic acid	Norepinephrine
+L-Glutamic acid	Histamine
+L-Glutamic acid	L-Methionine
+L-Glutamic acid	Homovanillic acid
+L-Glutamic acid	Morphine
+Guanidoacetic acid	Creatinine
+L-Aspartic acid	Hypoxanthine
+Pyroglutamic acid	Octane
+L-Aspartic acid	SAICAR
+L-Glutamic acid	5-Phosphoribosylamine
+L-Aspartic acid	Phosphoribosyl pyrophosphate
+L-Glutamic acid	Phosphoribosyl pyrophosphate
+Pyroglutamic acid	Carbon monoxide
+L-Glutamic acid	gamma-Glutamylcysteine
+Pyroglutamic acid	gamma-Glutamylcysteine
+L-Glutamic acid	Ribose 1,5-bisphosphate
+L-Aspartic acid	Citric acid
+L-Glutamic acid	Citric acid
+Pyroglutamic acid	Citric acid
+Maleic acid	Citric acid
+L-Aspartic acid	L-Histidine
+L-Glutamic acid	L-Histidine
+L-Glutamic acid	5-Aminolevulinic acid
+L-Glutamic acid	Pyrroline hydroxycarboxylic acid
+L-Glutamic acid	4-Hydroxy-2-oxoglutaric acid
+L-Glutamic acid	2-Methyl-3-oxopropanoic acid
+L-Glutamic acid	Isobutyryl-CoA
+L-Glutamic acid	(S)-3-Hydroxyisobutyric acid
+L-Glutamic acid	(S)-Methylmalonic acid semialdehyde
+L-Glutamic acid	Alpha-ketoisovaleric acid
+L-Glutamic acid	L-Isoleucine
+L-Aspartic acid	L-Malic acid
+L-Glutamic acid	L-Malic acid
+L-Glutamic acid	2-Ketobutyric acid
+L-Aspartic acid	D-Malic acid
+L-Glutamic acid	D-Malic acid
+Maleic acid	D-Malic acid
+L-Glutamic acid	Porphobilinogen
+L-Glutamic acid	Uroporphyrinogen I
+L-Aspartic acid	(S)-Succinyldihydrolipoamide
+L-Glutamic acid	(S)-Succinyldihydrolipoamide
+L-Aspartic acid	Lipoamide
+L-Glutamic acid	Lipoamide
+L-Aspartic acid	Fluoride
+L-Glutamic acid	Fluoride
+Glyceric acid	Fluoride
+L-Aspartic acid	Hydrazine
+L-Aspartic acid	Glucosamine 6-phosphate
+L-Glutamic acid	Glucosamine 6-phosphate
+L-Glutamic acid	Beta-D-Fructose 6-phosphate
+L-Aspartic acid	Inosine
+L-Glutamic acid	Inosine
+L-Glutamic acid	5-Hydroxyindoleacetic acid
+L-Glutamic acid	Malonic acid
+L-Glutamic acid	5-Aminopentanoic acid
+L-Aspartic acid	Beta-Alanine
+L-Glutamic acid	Beta-Alanine
+L-Aspartic acid	N-Acetyl-L-aspartic acid
+L-Glutamic acid	N-Acetyl-L-aspartic acid
+L-Aspartic acid	D-Serine
+L-Glutamic acid	D-Serine
+Pyroglutamic acid	Retinal
+L-Glutamic acid	Isopropyl alcohol
+L-Glutamic acid	3-Mercaptopyruvic acid
+L-Glutamic acid	Peroxynitrite
+L-Aspartic acid	Pyridoxal
+L-Glutamic acid	Pyridoxal
+L-Glutamic acid	Hypotaurine
+L-Glutamic acid	Bovinocidin
+Guanidoacetic acid	Phosphoguanidinoacetate
+L-Glutamic acid	Creatine
+Guanidoacetic acid	Creatine
+L-Aspartic acid	AICAR
+L-Glutamic acid	AICAR
+L-Aspartic acid	Inosinic acid
+L-Glutamic acid	Inosinic acid
+L-Aspartic acid	Citrulline
+L-Glutamic acid	Citrulline
+L-Glutamic acid	D-Erythro-imidazole-glycerol-phosphate
+L-Glutamic acid	2-Aminobenzoic acid
+L-Glutamic acid	Glutarate semialdehyde
+L-Glutamic acid	Suberic acid
+L-Aspartic acid	Glutathione
+L-Glutamic acid	Glutathione
+Pyroglutamic acid	Glutathione
+L-Glutamic acid	Protocatechuic acid
+L-Glutamic acid	Glutaric acid
+L-Glutamic acid	Hydroxymethylbilane
+L-Aspartic acid	Oxalic acid
+L-Glutamic acid	Oxalic acid
+Glyceric acid	Oxalic acid
+L-Glutamic acid	Folinic acid
+L-Glutamic acid	5,10-Methenyltetrahydrofolic acid
+L-Glutamic acid	Propanal
+L-Glutamic acid	Cyclic GMP
+L-Glutamic acid	Cysteinylglycine
+Pyroglutamic acid	Cysteinylglycine
+Pyroglutamic acid	Aspartame
+L-Glutamic acid	Phosphoserine
+L-Glutamic acid	Niacinamide
+L-Aspartic acid	Phosphoribosyl formamidocarboxamide
+L-Glutamic acid	5,10-Methylene-THF
+L-Glutamic acid	5-Formiminotetrahydrofolic acid
+L-Aspartic acid	L-Allothreonine
+L-Glutamic acid	L-Allothreonine
+Maleic acid	L-Allothreonine
+L-Glutamic acid	Hydroxykynurenine
+Pyroglutamic acid	trans-Ferulic acid
+L-Glutamic acid	Piperidine
+L-Glutamic acid	(S)-b-aminoisobutyric acid
+L-Glutamic acid	Isocitric acid
+L-Glutamic acid	trans-Aconitic acid
+Maleic acid	trans-Aconitic acid
+L-Glutamic acid	2-Isopropyl-3-oxosuccinate
+L-Aspartic acid	L-Leucine
+L-Glutamic acid	L-Leucine
+Maleic acid	L-Leucine
+L-Glutamic acid	L-Valine
+L-Glutamic acid	cis-Aconitic acid
+Maleic acid	cis-Aconitic acid
+L-Aspartic acid	6-Hydroxydopamine
+L-Glutamic acid	6-Hydroxydopamine
+L-Glutamic acid	Ethylmethylacetic acid
+L-Glutamic acid	4-Aminobutyraldehyde
+L-Glutamic acid	4-Imidazolone-5-propionic acid
+L-Glutamic acid	Gallic acid
+L-Glutamic acid	Tetrahydrofolyl-[Glu](2)
+Glyceric acid	Glucaric acid
+L-Glutamic acid	Pyroglutamic acid
+Glyceric acid	2-Keto-3-deoxy-6-phosphogluconic acid
+L-Glutamic acid	Pimelic acid
+L-Aspartic acid	Maleic acid
+L-Glutamic acid	Maleic acid
+L-Glutamic acid	D-threo-Isocitric acid
+L-Aspartic acid	L-Homoserine
+L-Glutamic acid	L-Homoserine
+Maleic acid	L-Homoserine
+L-Glutamic acid	N-Acetyl-L-glutamate 5-semialdehyde
+L-Glutamic acid	N-Acetyl-L-glutamyl 5-phosphate
+L-Glutamic acid	Indoleacetaldehyde
+L-Glutamic acid	Terephthalic acid
+L-Glutamic acid	Kynurenic acid
+L-Aspartic acid	2-Amino-3-phosphonopropionic acid
+L-Glutamic acid	2-Amino-3-phosphonopropionic acid
+Maleic acid	2-Amino-3-phosphonopropionic acid
+L-Glutamic acid	Mesaconic acid
+L-Aspartic acid	Argininosuccinic acid
+L-Glutamic acid	Argininosuccinic acid
+L-Glutamic acid	4-Hydroxyphenylacetaldehyde
+L-Glutamic acid	L-Proline
+L-Glutamic acid	Formamide
+L-Aspartic acid	L-Dihydroorotic acid
+L-Glutamic acid	Xanthurenic acid
+L-Glutamic acid	Aminocaproic acid
+L-Glutamic acid	Tyramine
+L-Glutamic acid	Prephenate
+Maleic acid	Prephenate
+L-Glutamic acid	Ortho-Hydroxyphenylacetic acid
+L-Glutamic acid	D-2-Hydroxyglutaric acid
+L-Glutamic acid	Phenylacetaldehyde
+L-Glutamic acid	Diaminopimelic acid
+L-Glutamic acid	Dimethyl sulfoxide
+Pyroglutamic acid	Dimethyl sulfoxide
+L-Aspartic acid	Ureidosuccinic acid
+L-Glutamic acid	Ureidosuccinic acid
+L-Glutamic acid	Indolelactic acid
+Glyceric acid	Tartronate semialdehyde
+L-Glutamic acid	Adenosine tetraphosphate
+L-Aspartic acid	D-Aspartic acid
+L-Glutamic acid	D-Aspartic acid
+Maleic acid	D-Aspartic acid
+L-Glutamic acid	L-Histidinol
+L-Glutamic acid	Imidazole-4-acetaldehyde
+L-Glutamic acid	L-Glutamic gamma-semialdehyde
+L-Glutamic acid	Oxidized glutathione
+L-Glutamic acid	Iso-Valeraldehyde
+L-Aspartic acid	Propyl alcohol
+L-Glutamic acid	Propyl alcohol
+Maleic acid	Propyl alcohol
+L-Glutamic acid	(R) 2,3-Dihydroxy-3-methylvalerate
+L-Aspartic acid	Adenylsuccinic acid
+Pyroglutamic acid	D-Glucuronic acid
+L-Glutamic acid	N6-Acetyl-L-lysine
+L-Glutamic acid	4-(2-Aminophenyl)-2,4-dioxobutanoic acid
+Maleic acid	4-(2-Aminophenyl)-2,4-dioxobutanoic acid
+L-Aspartic acid	Iminoaspartic acid
+L-Glutamic acid	Iminoaspartic acid
+Maleic acid	Iminoaspartic acid
+L-Glutamic acid	Imidazole acetol-phosphate
+L-Glutamic acid	dTDP-D-glucose
+L-Aspartic acid	L-Canaline
+L-Aspartic acid	Canavanine
+L-Aspartic acid	L-Asparagine
+L-Glutamic acid	L-Asparagine
+L-Glutamic acid	Adipate semialdehyde
+L-Glutamic acid	(R)-2,3-Dihydroxy-isovalerate
+L-Glutamic acid	N2-Succinyl-L-glutamic acid 5-semialdehyde
+L-Glutamic acid	N2-Succinyl-L-ornithine
+L-Glutamic acid	4-(2-Amino-3-hydroxyphenyl)-2,4-dioxobutanoic acid
+L-Glutamic acid	Tetrahydrodipicolinate
+L-Glutamic acid	N-Succinyl-2-amino-6-ketopimelate
+L-Glutamic acid	N-Acetylglutamic acid
+Pyroglutamic acid	D-Alpha-aminobutyric acid
+L-Glutamic acid	1-Pyrroline-5-carboxylic acid
+L-Glutamic acid	5-Aminopentanamide
+Pyroglutamic acid	6-Hydroxydopamine
+L-Aspartic acid	N-Acetyl-b-glucosaminylamine
+L-Aspartic acid	Aspartylglycosamine
+L-Glutamic acid	Xanthylic acid
+L-Glutamic acid	1-Pyrroline
+L-Glutamic acid	Phosphohydroxypyruvic acid
+L-Glutamic acid	L-Glutamic acid 5-phosphate
+L-Glutamic acid	6-Hydroxydopamine
+L-Glutamic acid	6-Hydroxydopamine

@@ -1,0 +1,392 @@
+Gene 1	Gene 2	Weight	Network group	Network
+CCR8	CDON	0.008409359	Co-expression	Wang-Maris-2006
+CCR2	CCR8	0.00869478	Co-expression	Wang-Maris-2006
+PRKACA	SHH	0.024632744	Co-expression	Mallon-McKay-2013
+CCR5	CCL5	0.0072296057	Co-expression	Mallon-McKay-2013
+NTN3	NF2	0.00748237	Co-expression	Roth-Zlotnik-2006
+CCR5	CCL5	0.014648189	Co-expression	Roth-Zlotnik-2006
+SLC9A3R1	EZR	0.022713162	Co-expression	Roth-Zlotnik-2006
+CCR5	CDH2	0.019679958	Co-expression	Ramaswamy-Golub-2001
+HGS	NF2	0.012101906	Co-expression	Ramaswamy-Golub-2001
+HGS	SLC9A3R1	0.011225587	Co-expression	Ramaswamy-Golub-2001
+SHH	BOC	0.0051391786	Co-expression	Innocenti-Brown-2011
+CCR5	CCL5	0.0040818895	Co-expression	Innocenti-Brown-2011
+CCR2	CCR5	0.011835343	Co-expression	Innocenti-Brown-2011
+CCL5	NF2	0.005564138	Co-expression	Alizadeh-Staudt-2000
+CDH2	NF2	0.01021035	Co-expression	Alizadeh-Staudt-2000
+CCR5	CCL5	0.0073210243	Co-expression	Alizadeh-Staudt-2000
+CCR5	CCL5	0.007167789	Co-expression	Dobbin-Giordano-2005
+EZR	PPP1R8	0.010897942	Co-expression	Rieger-Chu-2004
+SHH	CCL16	0.0038856652	Co-expression	Bild-Nevins-2006 B
+CDH15	CCL16	0.0038582622	Co-expression	Bild-Nevins-2006 B
+CCR5	CCL5	0.012556797	Co-expression	Bild-Nevins-2006 B
+SLC9A3R1	EZR	0.0150481	Co-expression	Bild-Nevins-2006 B
+CCR8	CDON	0.0076245237	Co-expression	Burington-Shaughnessy-2008
+CCR2	CCR5	0.01711503	Co-expression	Burington-Shaughnessy-2008
+HGS	NF2	0.0053922436	Co-expression	Wang-Cheung-2015
+HGS	EGFR	0.0034793224	Co-expression	Wang-Cheung-2015
+HGS	PRKACA	0.0046591354	Co-expression	Wang-Cheung-2015
+HGS	EZR	0.0022725696	Co-expression	Wang-Cheung-2015
+NTN3	NF2	0.006083736	Co-expression	Wu-Garvey-2007
+SLC9A3R1	DCAF1	0.015918382	Co-expression	Wu-Garvey-2007
+HGS	PRKACA	0.016934535	Co-expression	Wu-Garvey-2007
+IHH	NTN3	0.0063841986	Co-expression	Wu-Garvey-2007
+CCL5	NF2	0.003766754	Co-expression	Rosenwald-Staudt-2001
+CDH2	NF2	0.0066552376	Co-expression	Rosenwald-Staudt-2001
+CCR5	CCL5	0.0067628045	Co-expression	Rosenwald-Staudt-2001
+EZR	PPP1R8	0.01551349	Co-expression	Ross-Perou-2001
+CCR5	CCL5	0.00474836	Co-localization	Johnson-Shoemaker-2003
+SHH	CDON	0.0008384417	Genetic Interactions	Lin-Smith-2010
+SCHIP1	CDON	0.00033257864	Genetic Interactions	Lin-Smith-2010
+CDH2	CDON	0.00033772498	Genetic Interactions	Lin-Smith-2010
+SDCBP	CDH2	0.0008325449	Genetic Interactions	Lin-Smith-2010
+EGFR	AMOT	0.00038273173	Genetic Interactions	Lin-Smith-2010
+EGFR	CDH2	0.00032448993	Genetic Interactions	Lin-Smith-2010
+CDH15	CDON	0.00082871923	Genetic Interactions	Lin-Smith-2010
+IHH	EGFR	0.0007215681	Genetic Interactions	Lin-Smith-2010
+IHH	PRKACA	0.0056394464	Genetic Interactions	Lin-Smith-2010
+SHH	BOC	0.37021017	Pathway	Wu-Stein-2010
+SHH	CDON	0.22957008	Pathway	Wu-Stein-2010
+CDH15	CDH2	0.009934461	Pathway	Wu-Stein-2010
+CCR5	CCL5	0.025105529	Pathway	Wu-Stein-2010
+CCR8	CCL16	0.052590575	Pathway	Wu-Stein-2010
+SLC9A3R1	EZR	0.043929406	Pathway	Wu-Stein-2010
+HGS	EGFR	0.011751115	Pathway	Wu-Stein-2010
+CCR2	CCL16	0.05928734	Pathway	Wu-Stein-2010
+SHH	BOC	0.34528163	Pathway	NCI_NATURE
+SHH	CDON	0.20530568	Pathway	NCI_NATURE
+PRKACA	NF2	0.29254752	Pathway	NCI_NATURE
+NTN3	CDON	0.2946081	Pathway	REACTOME
+HGS	EGFR	0.07069609	Pathway	REACTOME
+SDCBP	NF2	0.49081427	Pathway	IMID
+CCL5	CCL16	0.32335582	Physical Interactions	von Hundelshausen-Weber-2017
+CCR5	CCL5	0.16724797	Physical Interactions	von Hundelshausen-Weber-2017
+EGFR	NF2	0.14599971	Physical Interactions	Li-Fu-2017
+EZR	EGFR	0.031123357	Physical Interactions	Petschnigg-Stagljar-2014
+CCL5	CCL16	0.0049818777	Physical Interactions	IREF-reactome
+CDON	BOC	0.04638588	Physical Interactions	IREF-reactome
+NTN3	BOC	0.18642454	Physical Interactions	IREF-reactome
+NTN3	CDON	0.18642454	Physical Interactions	IREF-reactome
+CDH2	BOC	0.050895467	Physical Interactions	IREF-reactome
+CDH2	CDON	0.050895467	Physical Interactions	IREF-reactome
+CDH15	BOC	0.050895467	Physical Interactions	IREF-reactome
+CDH15	CDON	0.050895467	Physical Interactions	IREF-reactome
+CCR5	CCL16	0.005026334	Physical Interactions	IREF-reactome
+CCR5	CCL5	0.004960794	Physical Interactions	IREF-reactome
+CCR8	CCL16	0.005085948	Physical Interactions	IREF-reactome
+CCR8	CCL5	0.005019631	Physical Interactions	IREF-reactome
+CCR8	CCR5	0.0050644237	Physical Interactions	IREF-reactome
+HGS	EGFR	0.022370663	Physical Interactions	IREF-reactome
+CCR2	CCL16	0.0048937565	Physical Interactions	IREF-reactome
+CCR2	CCL5	0.0048299455	Physical Interactions	IREF-reactome
+CCR2	CCR5	0.0048730457	Physical Interactions	IREF-reactome
+CCL5	CCL16	0.0049818777	Physical Interactions	Vastrik-Stein-2007
+CDON	BOC	0.04638588	Physical Interactions	Vastrik-Stein-2007
+NTN3	BOC	0.18642454	Physical Interactions	Vastrik-Stein-2007
+NTN3	CDON	0.18642454	Physical Interactions	Vastrik-Stein-2007
+CDH2	BOC	0.050895467	Physical Interactions	Vastrik-Stein-2007
+CDH2	CDON	0.050895467	Physical Interactions	Vastrik-Stein-2007
+CDH15	BOC	0.050895467	Physical Interactions	Vastrik-Stein-2007
+CDH15	CDON	0.050895467	Physical Interactions	Vastrik-Stein-2007
+CCR5	CCL16	0.005026334	Physical Interactions	Vastrik-Stein-2007
+CCR5	CCL5	0.004960794	Physical Interactions	Vastrik-Stein-2007
+CCR8	CCL16	0.005085948	Physical Interactions	Vastrik-Stein-2007
+CCR8	CCL5	0.005019631	Physical Interactions	Vastrik-Stein-2007
+CCR8	CCR5	0.0050644237	Physical Interactions	Vastrik-Stein-2007
+HGS	EGFR	0.022370663	Physical Interactions	Vastrik-Stein-2007
+CCR2	CCL16	0.0048937565	Physical Interactions	Vastrik-Stein-2007
+CCR2	CCL5	0.0048299455	Physical Interactions	Vastrik-Stein-2007
+CCR2	CCR5	0.0048730457	Physical Interactions	Vastrik-Stein-2007
+CCL5	CCL16	0.3281489	Physical Interactions	IREF-bhf-ucl
+CCR5	CCL5	0.17072193	Physical Interactions	IREF-bhf-ucl
+CDON	BOC	1	Physical Interactions	IREF-quickgo
+DCAF1	NF2	0.46451464	Physical Interactions	IREF-quickgo
+EZR	PRKACA	0.030510757	Physical Interactions	IREF-quickgo
+CCR5	CCL5	0.1939146	Physical Interactions	IREF-quickgo
+SLC9A3R1	NF2	0.08289613	Physical Interactions	IREF-quickgo
+SLC9A3R1	EZR	0.023811713	Physical Interactions	IREF-quickgo
+AMOT	NF2	0.91130626	Physical Interactions	IREF-dip
+CCR5	CCL5	0.13575289	Physical Interactions	IREF-dip
+CCR8	CCL16	0.29041904	Physical Interactions	IREF-dip
+HGS	EGFR	0.05940608	Physical Interactions	IREF-dip
+CCR2	CCL16	0.23041995	Physical Interactions	IREF-dip
+SLC9A3R1	EZR	0.11479486	Physical Interactions	Wan-Emili-2015
+PPP1R8	NF2	0.668795	Physical Interactions	Havugimana-Emili-2012
+SCHIP1	NF2	1	Physical Interactions	IREF-uniprotpp
+IHH	BOC	0.5	Physical Interactions	IREF-uniprotpp
+IHH	CDON	0.5	Physical Interactions	IREF-uniprotpp
+CDON	BOC	0.29869264	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+AMOT	NF2	0.027034339	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+SCHIP1	NF2	0.4054665	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+CDH2	BOC	0.12529375	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+CDH2	CDON	0.07555099	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+SDCBP	NF2	0.030348754	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+EGFR	NF2	0.0032200988	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+EGFR	CDH2	0.0033360084	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+CDH15	BOC	0.31613183	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+CDH15	CDON	0.19062461	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+DCAF1	NF2	0.018208234	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+PRKACA	PPP1R8	0.022879854	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+PRKACA	EGFR	0.0011906179	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+EZR	NF2	0.016793437	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+CCR5	CCL5	0.08836252	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+SLC9A3R1	NF2	0.019072235	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+SLC9A3R1	CDH2	0.019758753	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+SLC9A3R1	EZR	0.010847062	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+HGS	NF2	0.008569214	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+HGS	EGFR	0.0009345038	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+AMOT	NF2	0.23897347	Physical Interactions	Sowa-Harper-2009
+SLC9A3R1	NF2	0.52182525	Physical Interactions	IREF-innatedb
+CCR2	CCR5	0.10438434	Physical Interactions	IREF-innatedb
+CCR5	CCL5	0.14179793	Physical Interactions	IREF-mint
+SLC9A3R1	EZR	0.049811456	Physical Interactions	IREF-mint
+SDCBP	NF2	0.086489536	Physical Interactions	IREF-bind-translation
+EZR	NF2	0.14913416	Physical Interactions	IREF-bind-translation
+SLC9A3R1	NF2	0.08601525	Physical Interactions	IREF-bind-translation
+HGS	NF2	0.3192135	Physical Interactions	IREF-bind-translation
+EZR	NF2	0.19629568	Physical Interactions	IREF-bind
+SLC9A3R1	NF2	0.10311077	Physical Interactions	IREF-bind
+HGS	NF2	0.35271448	Physical Interactions	IREF-bind
+HGS	NF2	0.94064224	Physical Interactions	Trepte-Wanker-2018 B
+EZR	NF2	0.23629966	Physical Interactions	Rual-Vidal-2005
+CCL5	CCL16	0.25518203	Physical Interactions	IREF-matrixdb
+EZR	EGFR	0.0018302767	Physical Interactions	IREF-matrixdb
+CCR5	CCL5	0.054634687	Physical Interactions	IREF-matrixdb
+SLC9A3R1	EZR	0.0818806	Physical Interactions	IREF-matrixdb
+HGS	EGFR	0.013585687	Physical Interactions	IREF-matrixdb
+IHH	BOC	0.3612213	Physical Interactions	IREF-matrixdb
+IHH	CDON	0.42133775	Physical Interactions	IREF-matrixdb
+HGS	NF2	0.03489964	Physical Interactions	Lim-Zoghbi-2006
+EZR	NF2	0.062265508	Physical Interactions	IREF-spike
+SLC9A3R1	NF2	0.054524016	Physical Interactions	IREF-spike
+SLC9A3R1	EZR	0.032267418	Physical Interactions	IREF-spike
+HGS	NF2	0.02416075	Physical Interactions	IREF-spike
+AMOT	NF2	0.08886824	Physical Interactions	IREF-huri
+CDON	BOC	0.21561871	Physical Interactions	IREF-biogrid
+CDH15	BOC	0.2969675	Physical Interactions	IREF-biogrid
+CDH15	CDON	0.3281857	Physical Interactions	IREF-biogrid
+CCR5	CCL5	0.05566372	Physical Interactions	IREF-biogrid
+HGS	EGFR	0.0006961623	Physical Interactions	IREF-biogrid
+CDON	BOC	0.40686756	Predicted	Wu-Stein-2010
+CDH2	BOC	0.26610172	Predicted	Wu-Stein-2010
+CDH2	CDON	0.19374405	Predicted	Wu-Stein-2010
+SDCBP	NF2	0.043166853	Predicted	Wu-Stein-2010
+CDH15	CDON	0.39546835	Predicted	Wu-Stein-2010
+PRKACA	EGFR	0.013901402	Predicted	Wu-Stein-2010
+EZR	NF2	0.02636992	Predicted	Wu-Stein-2010
+CCR5	CCL16	0.3892178	Predicted	Wu-Stein-2010
+HGS	NF2	0.022291107	Predicted	Wu-Stein-2010
+IHH	SHH	0.49258572	Predicted	Wu-Stein-2010
+CCR2	CCR5	0.04166302	Predicted	Wu-Stein-2010
+CCR2	CCR8	0.08467552	Predicted	Wu-Stein-2010
+EZR	NF2	0.2682316	Predicted	I2D-IntAct-Mouse2Human
+SHH	BOC	0.49208543	Predicted	I2D-BioGRID-Mouse2Human
+SHH	CDON	0.22279507	Predicted	I2D-BioGRID-Mouse2Human
+CCL5	CCL16	0.024804918	Shared protein domains	INTERPRO
+CDON	BOC	0.0124055715	Shared protein domains	INTERPRO
+CDH15	CDH2	0.02009654	Shared protein domains	INTERPRO
+EZR	NF2	0.04196683	Shared protein domains	INTERPRO
+CCR8	CCR5	0.034844205	Shared protein domains	INTERPRO
+SLC9A3R1	SDCBP	0.020444056	Shared protein domains	INTERPRO
+IHH	SHH	0.5268602	Shared protein domains	INTERPRO
+CCR2	CCR5	0.03567302	Shared protein domains	INTERPRO
+CCR2	CCR8	0.03440559	Shared protein domains	INTERPRO
+CCL5	CCL16	0.022727273	Shared protein domains	PFAM
+CDON	BOC	0.016108915	Shared protein domains	PFAM
+CDH15	CDH2	0.026248315	Shared protein domains	PFAM
+EZR	NF2	0.046417218	Shared protein domains	PFAM
+CCR8	CCR5	0.003531299	Shared protein domains	PFAM
+SLC9A3R1	SDCBP	0.026675541	Shared protein domains	PFAM
+IHH	SHH	0.5	Shared protein domains	PFAM
+CCR2	CCR5	0.0034683028	Shared protein domains	PFAM
+CCR2	CCR8	0.0034683028	Shared protein domains	PFAM
+Gene 1	Gene 2	Weight	Network group	Network
+PRKACA	SHH	0.024632744	Co-expression	Mallon-McKay-2013
+NEO1	CDH2	0.010362975	Co-expression	Mallon-McKay-2013
+NTN3	NF2	0.00748237	Co-expression	Roth-Zlotnik-2006
+SLC9A3R1	EZR	0.022713162	Co-expression	Roth-Zlotnik-2006
+HGS	NF2	0.012101906	Co-expression	Ramaswamy-Golub-2001
+HGS	SLC9A3R1	0.011225587	Co-expression	Ramaswamy-Golub-2001
+NEO1	EGFR	0.024617787	Co-expression	Ramaswamy-Golub-2001
+SHH	BOC	0.0051391786	Co-expression	Innocenti-Brown-2011
+CDH2	NF2	0.01021035	Co-expression	Alizadeh-Staudt-2000
+EZR	PPP1R8	0.010897942	Co-expression	Rieger-Chu-2004
+SLC9A3R1	EZR	0.0150481	Co-expression	Bild-Nevins-2006 B
+DHH	NTN3	0.013418819	Co-expression	Burington-Shaughnessy-2008
+RPS6KA1	PRKACA	0.01999233	Co-expression	Burington-Shaughnessy-2008
+RPS6KA1	SLC9A3R1	0.002920622	Co-expression	Arijs-Rutgeerts-2009
+RPS6KA1	WWC1	0.014529956	Co-expression	Arijs-Rutgeerts-2009
+DHH	SHH	0.013058675	Co-expression	Jiang-de Kok-2017
+DHH	DCAF1	0.027689599	Co-expression	Chen-Brown-2002
+HGS	NF2	0.0053922436	Co-expression	Wang-Cheung-2015
+HGS	EGFR	0.0034793224	Co-expression	Wang-Cheung-2015
+HGS	PRKACA	0.0046591354	Co-expression	Wang-Cheung-2015
+HGS	EZR	0.0022725696	Co-expression	Wang-Cheung-2015
+NTN3	NF2	0.006083736	Co-expression	Wu-Garvey-2007
+SLC9A3R1	DCAF1	0.015918382	Co-expression	Wu-Garvey-2007
+HGS	PRKACA	0.016934535	Co-expression	Wu-Garvey-2007
+IHH	NTN3	0.0063841986	Co-expression	Wu-Garvey-2007
+WWC1	DHH	0.005032289	Co-expression	Wu-Garvey-2007
+CDH2	NF2	0.0066552376	Co-expression	Rosenwald-Staudt-2001
+EZR	PPP1R8	0.01551349	Co-expression	Ross-Perou-2001
+NEO1	PRKACA	0.013258688	Co-expression	Perou-Botstein-1999
+SHH	CDON	0.0008384417	Genetic Interactions	Lin-Smith-2010
+SCHIP1	CDON	0.00033257864	Genetic Interactions	Lin-Smith-2010
+CDH2	CDON	0.00033772498	Genetic Interactions	Lin-Smith-2010
+SDCBP	CDH2	0.0008325449	Genetic Interactions	Lin-Smith-2010
+EGFR	AMOT	0.00038273173	Genetic Interactions	Lin-Smith-2010
+EGFR	CDH2	0.00032448993	Genetic Interactions	Lin-Smith-2010
+CDH15	CDON	0.00082871923	Genetic Interactions	Lin-Smith-2010
+IHH	EGFR	0.0007215681	Genetic Interactions	Lin-Smith-2010
+IHH	PRKACA	0.0056394464	Genetic Interactions	Lin-Smith-2010
+DHH	SCHIP1	0.0009512267	Genetic Interactions	Lin-Smith-2010
+WWC1	SCHIP1	0.00030251182	Genetic Interactions	Lin-Smith-2010
+WWC1	CDH2	0.0003071929	Genetic Interactions	Lin-Smith-2010
+WWC1	IHH	0.0006831047	Genetic Interactions	Lin-Smith-2010
+NEO1	CDON	0.00057116087	Genetic Interactions	Lin-Smith-2010
+NEO1	AMOT	0.0006104236	Genetic Interactions	Lin-Smith-2010
+NEO1	WWC1	0.000519525	Genetic Interactions	Lin-Smith-2010
+RPS6KA1	AMOT	0.0007269408	Genetic Interactions	Lin-Smith-2010
+RPS6KA1	WWC1	0.0006186915	Genetic Interactions	Lin-Smith-2010
+SHH	BOC	0.37021017	Pathway	Wu-Stein-2010
+SHH	CDON	0.22957008	Pathway	Wu-Stein-2010
+CDH15	CDH2	0.009934461	Pathway	Wu-Stein-2010
+SLC9A3R1	EZR	0.043929406	Pathway	Wu-Stein-2010
+HGS	EGFR	0.011751115	Pathway	Wu-Stein-2010
+SHH	BOC	0.34528163	Pathway	NCI_NATURE
+SHH	CDON	0.20530568	Pathway	NCI_NATURE
+PRKACA	NF2	0.29254752	Pathway	NCI_NATURE
+NTN3	CDON	0.2946081	Pathway	REACTOME
+HGS	EGFR	0.07069609	Pathway	REACTOME
+NEO1	CDON	0.22096436	Pathway	REACTOME
+NEO1	NTN3	0.5551573	Pathway	REACTOME
+SDCBP	NF2	0.49081427	Pathway	IMID
+EGFR	NF2	0.14599971	Physical Interactions	Li-Fu-2017
+EZR	EGFR	0.031123357	Physical Interactions	Petschnigg-Stagljar-2014
+CDON	BOC	0.04638588	Physical Interactions	IREF-reactome
+NTN3	BOC	0.18642454	Physical Interactions	IREF-reactome
+NTN3	CDON	0.18642454	Physical Interactions	IREF-reactome
+CDH2	BOC	0.050895467	Physical Interactions	IREF-reactome
+CDH2	CDON	0.050895467	Physical Interactions	IREF-reactome
+CDH15	BOC	0.050895467	Physical Interactions	IREF-reactome
+CDH15	CDON	0.050895467	Physical Interactions	IREF-reactome
+HGS	EGFR	0.022370663	Physical Interactions	IREF-reactome
+NEO1	BOC	0.061339185	Physical Interactions	IREF-reactome
+NEO1	CDON	0.061339185	Physical Interactions	IREF-reactome
+NEO1	NTN3	0.2465218	Physical Interactions	IREF-reactome
+CDON	BOC	0.04638588	Physical Interactions	Vastrik-Stein-2007
+NTN3	BOC	0.18642454	Physical Interactions	Vastrik-Stein-2007
+NTN3	CDON	0.18642454	Physical Interactions	Vastrik-Stein-2007
+CDH2	BOC	0.050895467	Physical Interactions	Vastrik-Stein-2007
+CDH2	CDON	0.050895467	Physical Interactions	Vastrik-Stein-2007
+CDH15	BOC	0.050895467	Physical Interactions	Vastrik-Stein-2007
+CDH15	CDON	0.050895467	Physical Interactions	Vastrik-Stein-2007
+HGS	EGFR	0.022370663	Physical Interactions	Vastrik-Stein-2007
+NEO1	BOC	0.061339185	Physical Interactions	Vastrik-Stein-2007
+NEO1	CDON	0.061339185	Physical Interactions	Vastrik-Stein-2007
+NEO1	NTN3	0.2465218	Physical Interactions	Vastrik-Stein-2007
+CDON	BOC	1	Physical Interactions	IREF-quickgo
+DCAF1	NF2	0.46451464	Physical Interactions	IREF-quickgo
+EZR	PRKACA	0.030510757	Physical Interactions	IREF-quickgo
+SLC9A3R1	NF2	0.08289613	Physical Interactions	IREF-quickgo
+SLC9A3R1	EZR	0.023811713	Physical Interactions	IREF-quickgo
+AMOT	NF2	0.91130626	Physical Interactions	IREF-dip
+HGS	EGFR	0.05940608	Physical Interactions	IREF-dip
+SLC9A3R1	EZR	0.11479486	Physical Interactions	Wan-Emili-2015
+PPP1R8	NF2	0.668795	Physical Interactions	Havugimana-Emili-2012
+SCHIP1	NF2	1	Physical Interactions	IREF-uniprotpp
+IHH	BOC	0.5	Physical Interactions	IREF-uniprotpp
+IHH	CDON	0.5	Physical Interactions	IREF-uniprotpp
+DHH	BOC	0.5	Physical Interactions	IREF-uniprotpp
+DHH	CDON	0.5	Physical Interactions	IREF-uniprotpp
+CDON	BOC	0.29869264	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+AMOT	NF2	0.027034339	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+SCHIP1	NF2	0.4054665	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+CDH2	BOC	0.12529375	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+CDH2	CDON	0.07555099	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+SDCBP	NF2	0.030348754	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+EGFR	NF2	0.0032200988	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+EGFR	CDH2	0.0033360084	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+DCAF1	NF2	0.018208234	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+CDH15	BOC	0.31613183	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+CDH15	CDON	0.19062461	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+PRKACA	PPP1R8	0.022879854	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+PRKACA	EGFR	0.0011906179	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+EZR	NF2	0.016793437	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+SLC9A3R1	NF2	0.019072235	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+SLC9A3R1	CDH2	0.019758753	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+SLC9A3R1	EZR	0.010847062	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+HGS	NF2	0.008569214	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+HGS	EGFR	0.0009345038	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+WWC1	NF2	0.02646535	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+WWC1	AMOT	0.024230609	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+NEO1	CDON	0.13700742	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+NEO1	NTN3	0.55916125	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+NEO1	CDH2	0.057471022	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+NEO1	CDH15	0.1450066	Physical Interactions	BIOGRID-SMALL-SCALE-STUDIES
+AMOT	NF2	0.23897347	Physical Interactions	Sowa-Harper-2009
+SLC9A3R1	NF2	0.52182525	Physical Interactions	IREF-innatedb
+SLC9A3R1	EZR	0.049811456	Physical Interactions	IREF-mint
+WWC1	NF2	1	Physical Interactions	IREF-corum
+SDCBP	NF2	0.086489536	Physical Interactions	IREF-bind-translation
+EZR	NF2	0.14913416	Physical Interactions	IREF-bind-translation
+SLC9A3R1	NF2	0.08601525	Physical Interactions	IREF-bind-translation
+HGS	NF2	0.3192135	Physical Interactions	IREF-bind-translation
+EZR	NF2	0.19629568	Physical Interactions	IREF-bind
+SLC9A3R1	NF2	0.10311077	Physical Interactions	IREF-bind
+HGS	NF2	0.35271448	Physical Interactions	IREF-bind
+HGS	NF2	0.94064224	Physical Interactions	Trepte-Wanker-2018 B
+EZR	NF2	0.23629966	Physical Interactions	Rual-Vidal-2005
+EZR	EGFR	0.0018302767	Physical Interactions	IREF-matrixdb
+SLC9A3R1	EZR	0.0818806	Physical Interactions	IREF-matrixdb
+HGS	EGFR	0.013585687	Physical Interactions	IREF-matrixdb
+IHH	BOC	0.3612213	Physical Interactions	IREF-matrixdb
+IHH	CDON	0.42133775	Physical Interactions	IREF-matrixdb
+DHH	BOC	0.3612213	Physical Interactions	IREF-matrixdb
+DHH	CDON	0.42133775	Physical Interactions	IREF-matrixdb
+HGS	NF2	0.03489964	Physical Interactions	Lim-Zoghbi-2006
+EZR	NF2	0.062265508	Physical Interactions	IREF-spike
+SLC9A3R1	NF2	0.054524016	Physical Interactions	IREF-spike
+SLC9A3R1	EZR	0.032267418	Physical Interactions	IREF-spike
+HGS	NF2	0.02416075	Physical Interactions	IREF-spike
+AMOT	NF2	0.08886824	Physical Interactions	IREF-huri
+CDON	BOC	0.21561871	Physical Interactions	IREF-biogrid
+CDH15	BOC	0.2969675	Physical Interactions	IREF-biogrid
+CDH15	CDON	0.3281857	Physical Interactions	IREF-biogrid
+HGS	EGFR	0.0006961623	Physical Interactions	IREF-biogrid
+CDON	BOC	0.40686756	Predicted	Wu-Stein-2010
+CDH2	BOC	0.26610172	Predicted	Wu-Stein-2010
+CDH2	CDON	0.19374405	Predicted	Wu-Stein-2010
+SDCBP	NF2	0.043166853	Predicted	Wu-Stein-2010
+CDH15	CDON	0.39546835	Predicted	Wu-Stein-2010
+PRKACA	EGFR	0.013901402	Predicted	Wu-Stein-2010
+EZR	NF2	0.02636992	Predicted	Wu-Stein-2010
+HGS	NF2	0.022291107	Predicted	Wu-Stein-2010
+IHH	SHH	0.49258572	Predicted	Wu-Stein-2010
+DHH	IHH	0.76536685	Predicted	Wu-Stein-2010
+RPS6KA1	PRKACA	0.021995071	Predicted	Wu-Stein-2010
+EZR	NF2	0.2682316	Predicted	I2D-IntAct-Mouse2Human
+RPS6KA1	NF2	0.5167559	Predicted	I2D-IntAct-Mouse2Human
+SHH	BOC	0.49208543	Predicted	I2D-BioGRID-Mouse2Human
+SHH	CDON	0.22279507	Predicted	I2D-BioGRID-Mouse2Human
+NEO1	CDON	0.8426755	Predicted	I2D-BioGRID-Mouse2Human
+CDON	BOC	0.0124055715	Shared protein domains	INTERPRO
+CDH15	CDH2	0.02009654	Shared protein domains	INTERPRO
+EZR	NF2	0.04196683	Shared protein domains	INTERPRO
+SLC9A3R1	SDCBP	0.020444056	Shared protein domains	INTERPRO
+IHH	SHH	0.5268602	Shared protein domains	INTERPRO
+DHH	SHH	0.4863845	Shared protein domains	INTERPRO
+DHH	IHH	0.4863845	Shared protein domains	INTERPRO
+NEO1	BOC	0.013726599	Shared protein domains	INTERPRO
+NEO1	CDON	0.013131589	Shared protein domains	INTERPRO
+RPS6KA1	PRKACA	0.017690986	Shared protein domains	INTERPRO
+CDON	BOC	0.016108915	Shared protein domains	PFAM
+CDH15	CDH2	0.026248315	Shared protein domains	PFAM
+EZR	NF2	0.046417218	Shared protein domains	PFAM
+SLC9A3R1	SDCBP	0.026675541	Shared protein domains	PFAM
+IHH	SHH	0.5	Shared protein domains	PFAM
+DHH	SHH	0.5	Shared protein domains	PFAM
+DHH	IHH	0.5	Shared protein domains	PFAM
+NEO1	BOC	0.017099004	Shared protein domains	PFAM
+NEO1	CDON	0.017139869	Shared protein domains	PFAM
+RPS6KA1	PRKACA	0.0028693294	Shared protein domains	PFAM

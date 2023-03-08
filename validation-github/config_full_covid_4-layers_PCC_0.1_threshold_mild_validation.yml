@@ -1,0 +1,77 @@
+#hypothesis approach using IL6 and IL6R as seeds
+#seed: seeds_4_layers.txt
+
+#data-driven approach using top-ranked features based on integrated centrality score as seed
+seed: seeds_data_driven_validation.txt
+
+r: 0.7
+# self_loops: Are self-loops allowed? 1 yes, 0 not
+self_loops: 1
+# eta: Restart probability for each multiplex. Must sum up to one.
+eta: [1/3, 1/3, 1/3, 1/3]
+#4. Inter multiplex Networks Jump Probability (lambda)
+lamb:
+    - [1/4, 1/4, 1/4, 1/4]
+    - [1/4, 1/4, 1/4, 1/4]
+    - [1/4, 1/4, 1/4, 1/4]
+    - [1/4, 1/4, 1/4, 1/4]
+    #- [1]
+
+
+multiplex:
+    1:
+        layers:
+            - Networks/Proteomics-all_sig_mild_absolute_PCC_0.1_validation.txt
+#            - Networks/Transcriptomics-all_sig_severe_absolute_PCC.txt1
+#            - Networks/Metabolomics-all_sig_severe_absolute_PCC.txt1
+
+        delta: 0.5
+        # Graph type: unweighted/weighted, undirected/directed
+        #graph_type: [00, 00, 00]
+        graph_type: [00]
+        # Restart probabily 3. Layers Restart Probability (tau)
+#        tau: [1/3, 1/3, 1/3]
+        tau: [1]
+    2:
+        layers:
+            - Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1_validation.txt
+#            - Networks/Transcriptomics-all_sig_severe_absolute_PCC.txt1
+#            - Networks/Transcriptomics-all_sig_severe_absolute_PCC.txt1
+        delta: 0.5
+#        graph_type: [00, 00, 00]
+        graph_type: [00]
+#        tau: [1/3, 1/3, 1/3]
+        tau: [1]
+
+    3:
+        layers:
+            - Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1_validation.txt
+ #           - Networks/Metabolomics-all_sig_severe_absolute_PCC.txt1
+ #           - Networks/Metabolomics-all_sig_severe_absolute_PCC.txt1
+        delta: 0.5
+        #graph_type: [00, 00, 00]
+        graph_type: [00]
+#        tau: [1/3, 1/3, 1/3]
+        tau: [1]
+    4:
+        layers:
+            - Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt
+ #           - Networks/Metabolomics-all_sig_severe_absolute_PCC.txt1
+ #           - Networks/Metabolomics-all_sig_severe_absolute_PCC.txt1
+        delta: 0.5
+        #graph_type: [00, 00, 00]
+        graph_type: [00]
+#        tau: [1/3, 1/3, 1/3]
+        tau: [1]
+
+
+
+bipartite:
+    #bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1: {source: 1, 'target': 2, graph_type: 00}
+    #bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12: {source: 1, 'target': 2, graph_type: 00}
+    #bipartite/Overmyer-Su-cross-layer_including_unknown_lipid-protein.txt1: {source: 2, 'target': 3, graph_type: 00}
+
+    bipartite/metabolite-protein--severe.txt: {source: 1, 'target': 1}
+    bipartite/metabolite-protein--moderate.txt: {source: 2, 'target': 2}
+    bipartite/metabolite-protein--mild.txt: {source: 1, 'target': 1}
+    bipartite/Overmyer-Su-cross-layer_including_unknown_lipid-protein.txt1: {source: 4, 'target': 4}
